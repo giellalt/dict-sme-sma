@@ -449,13 +449,12 @@ luddet	luepkedh
 luoddanit	gajhkanidh
 luoddanit	loedtenidh
 luoitit	biestedh
-XXX
-luoittihit	vaahra,feeredh
+luoittihit	feeredh
 luovvanit	loevenidh
 luvvedit	lööveldidh
 láddat	njoetsedh
 lágidit	öörnedehtedh
-láigu,bálkáhit	leejjedh
+bálkáhit	leejjedh
 láitit	gevsiedidh
 láktadit	lietsedh
 láktat	låpsodh
@@ -463,24 +462,20 @@ lállit	dagnestidh
 lásset	leesedh
 lávkut	sïllestidh
 lávlut	laavlodh
-låne bort	låne bort
-låse opp	låse opp
 mannat	doeredh
 mannat	juhtedh
 mannat	mïnnedh
 mannat	mïnnedh	                                	 --
-mannat	vuelkedh	mïnnedh ta en tur og komme tilbake-  --
+mannat	vuelkedh
 massit	biestedh
 meahkut	praahkedh
 meannudit	gïetedalledh
-mearka,merket	guajhtsadidh,mïerhke
+merket	guajhtsadidh
 mearridit	mieriedidh
 mearridit	nænnoestidh
-merke seg	merke seg
 meroštit	aerviedidh
 mieigat	veeledidh
 mihtidit	mööledh
-miste matlysten	miste matlysten
 moddját	mojjehtidh
 moddját	mujjehtidh
 mohkastit	gaavedh
@@ -488,7 +483,6 @@ mohkastit	gajvedh
 moivet	kroehkedh
 molsut	molsesovvedh
 moraštit	sårkodh
-more seg	more seg
 morihit	fahkedh
 movttiidahttit	eadtjaldehtedh
 movttiidahttit	skodtedehtedh
@@ -498,7 +492,7 @@ muitalit	soptsestidh
 muitit	mujhtedh
 muittuhit	måjhtajehtedh
 muktit	jeatjahtehtedh
-muohttit,muohta	lopme,tjuetsedh
+muohttit	tjuetsedh
 muollat	reevstedh
 muosehuhttit	hearaldehtedh
 murjet	möörjedh
@@ -508,9 +502,9 @@ máistit	maejstedh
 máksit	maeksedh
 málet	muerkiestidh
 márrat	brorredh
-mátki,mannat	fealadimmie,fealadidh
+mannat	fealadidh
 mátkkoštit	feeledh
-máššu,suhkat	sovkedh,frïere
+suhkat	sovkedh
 nagodit	gaegniedidh
 nammadit	moenesovvedh
 nammadit	ållermaehtedh
@@ -520,7 +514,7 @@ nanosmahttit	nænnoestidh
 navdit	mïeledh
 navdit	vïenhtedh
 navválit	bajkedh
-navválit	bajkedh,mïetske
+navválit	bajkedh
 niegadit	nïekedidh
 nissut	snihkiestidh
 njamahit	njammedh
@@ -536,7 +530,7 @@ njoammut	laanestidh
 njolggástit	tsuvvedh
 njuoskat	lovvedh
 njuovvat	leekedh
-njuovvat,doappal	gahtjehtidh
+njuovvat	gahtjehtidh
 njurgut	njorkedidh
 njuvdit	badtjadidh
 njámmat	håarkodh
@@ -549,14 +543,12 @@ nuoladit	noeledidh
 nuoskkidit	deerjedh
 náitalit	pruvredh
 návddašit	damtedh
-nå igjen	nå igjen
-nærme seg	nærme seg
 oaffaruššat	sjïeledidh
 oaguhit	dåalvodh
 oahcudit	seerehtalledh
 oahcudit	seereldehtedh
 oahpahit	boejhkelidh
-oahppa,oahppat	leara,leerehtidh
+oahppat	leerehtidh
 oaidnit	vuejnedh
 oalgguhit	gïehtjelidh
 oanidit	åeniedidh
@@ -570,14 +562,12 @@ ohcat	ohtsedh
 ohcat	ohtsedidh
 oktoráđđet	jïjtjereeredh
 ollašuhttit	tjïrrehtidh
-oppføre seg	oppføre seg
-oppholde seg	oppholde seg
 ordnet	veesmedh
 organiseret	öörnedh
 orrut	tuhtjedh
 orrut	veasodh
 orrut	årrodh
-osku,jáhkkit	jaahkoe,jaehkedh
+jáhkkit	jaehkedh
 ostet	båårhkesjidh
 ovdanbuktit	vuesiehtidh
 ovddidit	evtiedidh
@@ -585,23 +575,16 @@ ovdánahttit	evtiedidh
 ovttasbargat	laavenjostedh
 ovttastahttit	ektiedidh
 ođasmahttit	orrestidh
-parre seg	parre seg
-passe på	passe på
-plukke bær	plukke bær
 plánet	soejkesjidh
-puste ut	puste ut
-páhkket,páhkka	paahke,peehkedh
+páhkket	peehkedh
 rahpat	geehpehtidh
 rahtasit	gaerkiehtidh
-rahttá,bohciidit	bïhtjegidh
+bohciidit	bïhtjegidh
 rassat	tjietskesjidh
 ravgat	trïjsedidh
 reavgut	kraavhkedidh
 reaškit	praehkiedidh
 rehkenastit	abrodh
-reise opp	reise opp
-reise seg	reise seg
-rekke opp	rekke opp
 riegádit	reakadidh
 rievdadit	jarkelidh
 rigeret	rajjadidh
@@ -610,14 +593,13 @@ rihkustit	foersedh
 rihttet	smeejvedh
 riidalit	digkiedidh
 riidet	rijdedh
-rive av	rive av
 rivvet	ruhtedh
 riŋget	ringkedh
 riššat	strïjhtjedh
-riššat,jurssahit	frårrodh
+riššat	frårrodh
 roaiskut	speehkestidh
 rohttet	sigkedh
-rulla,fierrat	bollerdidh
+fierrat	bollerdidh
 rundit	fatnehtidh
 runodit	kråånedidh
 ruohkkat	goepedh
@@ -629,84 +611,49 @@ ruoškit	mïetsedh
 ruvssodit	rååpsedidh
 ruvvet	daanjehtidh
 ruvvet	knugkedh
-rykke til	rykke til
 rábmot	garmerdidh
 ráhkadit	daajhtodh
 ráhkadit	darjodh
 ráhkistit	iehtsedh
 ráhkkanahttit	båårestidh
-ráhkkanas,nákcet	buektiehtidh,daevere
+nákcet	buektiehtidh
 ráhput	reehkedh
-ráhput,faskkon	skreepemeruevtie,gaarkoehtidh
-ráidu,olahit	geelkedh
+ráhput	gaarkoehtidh
+olahit	geelkedh
 ráigat	raejkiedidh
 ráivut	staameldidh
 rámidit	freemmedh
-rámidit,ruvsu	garmerdidh
+rámidit	garmerdidh
 rávvet	nihtetjistedh
 ráđđet	raeriestidh
 ráđđádallat	digkiedidh
 ráŋggáštit	bæsvodh
-rå over	rå over
-røre om	røre om
-røre seg	røre seg
-sadjin,sadjit	sijjedh
+sadjit	sijjedh
 sadjit	fïjledidh
 sahet	sååkesjidh
 sahkat	hïetedh
 savdadit	balledh
 savkalit	sarhkelidh
-se hvit ut	se hvit ut
-se på	se på
-se syner	se syner
-se ut som	se ut som
 seaguhit	pleentedh
 seaivut	girtedh
 seastit	njoetedh
 seavvit	seavahtidh
-seile	sigledh
-sele på	sele på
-senke prisen	senke prisen
-sette seg	sette seg
 sihkkelastit	sygkeldidh
 sihkkut	gajhkedh
 sillet	tjulhtedh
 sirdit	juhtedh
-sitte på huk	sitte på huk
-sitte sammenkrøket	sitte sammenkrøket
 sivahallat	bïedtedh
 sivdnidit	sjugniedidh
-skade seg	skade seg
 skelbmošit	lamkedh
 skierbmut	ååntedh
 skillat	skaanjedh
-skille rein	skille rein
-skire,čuohppat	skijre,tjoehpedh
-skitne til	skitne til
-skjelle ut	skjelle ut
-skjemme ut	skjemme ut
-skjære hakk	skjære hakk
-skrape skinn	skrape skinn
-skrike	gajrodh
-skylde på	skylde på
-skynde seg	skynde seg
+čuohppat	tjoehpedh
 skállat	plåavedh
-slite av	slite av
-slites av	slites av
-slå gras	slå gras
-slå seg ned	slå seg ned
-slå seg til ro	slå seg til ro
-sløye fisk	sløye fisk
-smake på	smake på
-smartá,vuohppát	earadidh
-smartá,časkit	laekedh
+vuohppát	earadidh
+časkit	laekedh
 smiehtadit	ussjedalledh
 smiehttat	funhterdidh
-snakke norsk	snakke norsk
-snakke samisk	snakke samisk
-snakke stygt	snakke stygt
 snelket	håhtajidh
-sno seg	sno seg
 soahtat	dåarodh
 soalssidit	sihkieldidh
 sohpat	skööpedh
@@ -715,23 +662,17 @@ sorbmet	marhkedh
 sparaidit	skïelpedh
 speadjat	reetsedh
 speallat	spealadidh
-spise med skje	spise med skje
-springe av sted	springe av sted
 stirdut	geahtjodh
-stivra,jođihit	ståvroe,mietiedidh
-stoagus,stoahkat	gaevnie,klæhtoehtidh
+jođihit	mietiedidh
+stoahkat	klæhtoehtidh
 stoahkat	rajjadidh
-strekke seg	strekke seg
-strekke ut	strekke ut
 stuhčat	tjoskehtidh
 stuoridit	stueriemdidh
 stávet	baakoedidh
 stáđásmit	gaarsjaldovvedh
-stå opp	stå opp
-støtte opp	støtte opp
 suddat	leamkedh
 suddat	sjalkedh
-sukká,suhkat	sovkedh
+suhkat	sovkedh
 suodjalit	vaarjelidh
 suoibut	gåvnjerdidh
 suoibut	stompeldidh
@@ -739,12 +680,10 @@ suoládit	sualadidh
 suoskat	soeskedh
 suovastit	berkiestidh
 suovvat	luhpiedidh
-svime av	svime av
-synes synd på	synes synd på
 sáddet	gietskiedidh
 sáddet	seedtedh
-sáhka,ságastit	gaskestalleme,gaskestalledh
-sáhka,sárdnut	dygkedadtedh,håaleme
+ságastit	gaskestalledh
+sárdnut	dygkedadtedh
 sáhtašit	skovhtestidh
 sáhttit	buektiehtidh
 sáltet	såålhtedh
@@ -752,31 +691,13 @@ sámástit	saemiestidh
 sárgut	guvviedidh
 sárgut	naajedh
 sártnut	saarnodh
-sørge for	sørge for
-ta det med ro	ta det med ro
-ta en tur	ta en tur
-ta hensyn til	ta hensyn til
-ta imot	ta imot
-ta slutt	ta slutt
-ta tak	ta tak
-ta vare på	ta vare på
-tenne på	tenne på
 testamenteret	tjaeliedehtedh
-tilegne seg	tilegne seg
-tilfeldigvis komme til å	tilfeldigvis komme til å
-trenge seg fram	trenge seg fram
-trykke sammen	trykke sammen
-trøtte ut	trøtte ut
-tørke litt	tørke litt
 udnot	ånnadidh
 uhcidit	unniedidh
 unniduvvot	ånnanidh
-utvide seg	utvide seg
-vahát,vahágahttit	skaara,irhkedh
+vahágahttit	irhkedh
 vajálduhttit	soelkedidh
 vardit	bertedh
-varme opp	varme opp
-vaske seg	vaske seg
 vatnat	sojjedh
 vavdat	dulhtjestidh
 vavdat	gahkedh
@@ -788,21 +709,13 @@ veallát	gællasjidh
 vealtat	uvtedh
 veardidit	mohtedidh
 veiggodit	tjearadehtedh
-vende om	vende om
-vende tilbake	vende tilbake
-vente litt	vente litt
 viehkat	goetsedh
 viežžat	veedtjedh
 viggat	baaverdidh
 vihkkedallat	tsebpeldidh
-vikle opp	vikle opp
-ville ha	ville ha
-vise seg	vise seg
 vizardit	njovhkedidh
 viššat	vissjedh
 viššat	vïssjedh
-vokse opp	vokse opp
-vri seg	vri seg
 vuodjat	voejedh
 vuodjit	eadtjoestidh
 vuodjit	vuejedh
@@ -812,10 +725,10 @@ vuohttit	vuehtedh
 vuoidat	badtjadidh
 vuoigŋat	voejngehtidh
 vuoitit	vitnedh
-vuoiŋŋasteapmi,vuoiŋŋastit	lïegkedidh
+vuoiŋŋastit	lïegkedidh
 vuojadit	laavkodh
 vuojehit	vuejiehtidh
-vuoksit	goglenasse,goesmeridh
+vuoksit	goesmeridh
 vuolgit	vuelkedh
 vuolidit	badtehtidh
 vuollat	voeledh
@@ -823,13 +736,13 @@ vuollástit	ritnedh
 vuordit	veanhtadidh
 vuordit	vuertedh
 vuordnut	våarnodh
-vuorjašuvvat,buozahit	vaajvedh
+vuorjašuvvat	vaajvedh
 vuostálastit	gïrredh
 vuovdit	doekedh
 vuođuštit	tjilkedh
 vuoššat	doeltedh
-váidda,váidit	gïelkerdidh
-váidit,váidalus	laejhteme,hojjedh
+váidit	gïelkerdidh
+váidit	hojjedh
 váikkuhit	dïjpedh
 váillahit	ohtsedh
 váilut	fååtesidh
@@ -845,17 +758,7 @@ vásihit	dåårjehtalledh
 vástidit	svååredh
 vástidit	vaestiedidh
 vávjit	beavnedh
-vázzit,váccášit	vaadtsehtjidh
-være blyg	være blyg
-være fornøyd	være fornøyd
-være gjerrig	være gjerrig
-være gjest	være gjest
-være glad i	være glad i
-være i dårlig humør	være i dårlig humør
-være redd	være redd
-være sur	være sur
-være syk	være syk
-være tett	være tett
+váccášit	vaadtsehtjidh
 áddestallat	heeredh
 áddet	aerviedidh
 ádjánit	fïjnedh
@@ -884,7 +787,6 @@ være tett	være tett
 ávnnaldit	sigkestidh
 ávvudit	heevehtidh
 ávžžuhit	haestedh
-åpne seg	åpne seg
 čalmmustit	gåhtsajehtedh
 čatnat	gårredidh
 čavget	sneerredh
@@ -920,7 +822,7 @@ være tett	være tett
 čuoskut	guepmierdidh
 čuovgat	bueledh
 čuovgat	goekedh
-čuovvut,čuovus	dåeriedidh
+čuovvut	dåeriedidh
 čuoččuhit	bagkesidh
 čuožžut	tjåadtjodh
 čuvggodit	ååbredidh
