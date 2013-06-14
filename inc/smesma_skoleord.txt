@@ -1,0 +1,89 @@
+
+Almmolašvuođaláhka	N	Byögkeleslaake
+Oahppodirektoráhta	N	Ööhpehtimmiedirektovrate
+almmuhuvvot	V	bæjhkoehtidh
+aviisa	N	plaerie
+bargobihttá	N	laavenjasse
+birget	V	bearkanieh
+boađus	N	illedahkide
+buot	Indef	gaajhkh
+ceahkki	N	daltese
+dattetge	Adv	læjhkan
+davvi-	N	noerhte-
+davvisámegiella	N	noerhtesaemien
+diehtu	N	bïevnese
+digitála	A	digitaale
+dábálaš	A	gaskoeh
+dárogiel-	N	nöörjen
+eallin	N	jielede
+eaŋgalsfága	N	eengelskefaage
+eaŋgalsgiella	N	eengelsken
+eaŋgalsgiella	N	eengelsken gïelesne
+elektrovnnalaš	A	elektrovneles
+erenoamášoahpahus	N	sjiereööhpehtimmie
+fuolaheaddji	N	eejhtege
+fylkka	N	fylhke
+fállat	V	faalenassem
+geavahit	V	nåhtadidh
+gielda	N	tjïelte
+giellaoahpahus	N	gïeleööhpehtimmie
+grammatihkka	N	grammatihke
+gáibidit	V	krïevedh
+gálgadássi	N	maehtelesvoetedaltese
+gárvát	N	gaervies
+identifiseret	V	identifiseradidh
+iežaset sániiguin	MWE	jïjtsh baakoejgujmie
+iskkus	N	pryövenassi
+iskkusbohtosat	MWE	illedahkh pryövenasseste
+iskkusáigi	N	pryövenassetijje
+julevsámegiella	N	julevsaemien
+jávohisvuođageasku	N	sjeavohtsvoetediedte
+kvalitehta	N	kvaliteete
+lihkostuvvat	V	lyhkesidh
+lohkan	N	lohkeme
+lohkanáddejupmi	N	lohkemegoerkesasse
+lohku	N	taalligujmie
+lulli-	N	åarjel-
+luvvema addit	MWE	baajedh slyöhpedh
+makkár iskkus	MWE	pryövenassesåarhte
+matematihkka	N	matematihke
+mearkkašupmi	N	ulmie
+mearridit	V	nænnoestidh
+mearriduvvon	A	vihties
+minuhta	N	minudte
+máŋggaválljenbargobihttá	N	jienebeveeljemelaavenjass
+našunála	A	nasjovnale
+neahttasiidu	N	nedtesæjroe
+njálmmálaččat	Adv	njaalmeldh
+oahpaheaddji	N	lohkehtæjja
+oahpahus	N	lïerehtimmie
+oahppi	N	learohke
+oassi	N	bielie
+oassálastit	V	meatan årrodh
+ovdanbuktit	A	soptsestidh
+ovddeš	A	aarebi
+ovdánahttit	V	evtiedidh
+ovttaskas	A	aktegs
+ovttaskas	A	såemies
+rabas	A	gaahpoeh
+rastá	Po	dåaresth
+reaidu	N	dïrrege
+rehkenastin	N	ryökneme
+rektor	N	rektovre
+sámegiel-	N	saemien
+sátneriggodat	N	baakoeveahkese
+vuoigatvuohta	N	reakta
+vuosttašgiella	N	voestesgïeli
+vuođđogálga	N	vihkielommes maehtelesvoete
+váldde oktavuođa	MWE	gaskesadth
+váldonjuolggadus	N	åejvienjoelkedasse
+válljet	V	veeljedh
+vástádus	N	vaestiedasse
+váttis	A	geerve
+álki	A	aelhkie
+árka	N	paepierisnie
+árvvoštallat	V	vuarjasjidh
+ávki	N	nåhtojne
+čađahit	V	tjïrrehtidh
+čoavdit	V	darjodh
+čálalaččat	Adv	tjaaleldh
