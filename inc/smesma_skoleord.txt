@@ -6,7 +6,7 @@ aviisa	N	plaerie
 bargobihttá	N	laavenjasse
 birget	V	bearkanieh
 boađus	N	illedahkide
-buot	Indef	gaajhkh
+buot	Indef	gaajhke
 ceahkki	N	daltese
 dattetge	Adv	læjhkan
 davvi-	N	noerhte-
@@ -21,7 +21,7 @@ eaŋgalsgiella	N	eengelsken
 eaŋgalsgiella	N	eengelsken gïelesne
 elektrovnnalaš	A	elektrovneles
 erenoamášoahpahus	N	sjiereööhpehtimmie
-fuolaheaddji	N	eejhtege
+fuolaheaddjit	N	eejhtegh
 fylkka	N	fylhke
 fállat	V	faalenassem
 geavahit	V	nåhtadidh
@@ -31,18 +31,18 @@ grammatihkka	N	grammatihke
 gáibidit	V	krïevedh
 gálgadássi	N	maehtelesvoetedaltese
 gárvát	N	gaervies
-identifiseret	V	identifiseradidh
+identifiseret	V	identifiseeredh
 iežaset sániiguin	MWE	jïjtsh baakoejgujmie
 iskkus	N	pryövenassi
 iskkusbohtosat	MWE	illedahkh pryövenasseste
-iskkusáigi	N	pryövenassetijje
+iskkusáigi	N	pryövenassetïjje
 julevsámegiella	N	julevsaemien
 jávohisvuođageasku	N	sjeavohtsvoetediedte
 kvalitehta	N	kvaliteete
 lihkostuvvat	V	lyhkesidh
 lohkan	N	lohkeme
-lohkanáddejupmi	N	lohkemegoerkesasse
-lohku	N	taalligujmie
+lohkanáddejupmi	N	lohkemegoerkese
+lohku	N	taale
 lulli-	N	åarjel-
 luvvema addit	MWE	baajedh slyöhpedh
 makkár iskkus	MWE	pryövenassesåarhte
@@ -51,8 +51,8 @@ mearkkašupmi	N	ulmie
 mearridit	V	nænnoestidh
 mearriduvvon	A	vihties
 minuhta	N	minudte
-máŋggaválljenbargobihttá	N	jienebeveeljemelaavenjass
-našunála	A	nasjovnale
+máŋggaválljenbargobihttá	N	jienebeveeljemelaavenjasse
+našunála	A	nasjonaale
 neahttasiidu	N	nedtesæjroe
 njálmmálaččat	Adv	njaalmeldh
 oahpaheaddji	N	lohkehtæjja
@@ -69,9 +69,9 @@ rabas	A	gaahpoeh
 rastá	Po	dåaresth
 reaidu	N	dïrrege
 rehkenastin	N	ryökneme
-rektor	N	rektovre
+rektor	N	rektore
 sámegiel-	N	saemien
-sátneriggodat	N	baakoeveahkese
+sátneriggodat	N	baakoeveahka
 vuoigatvuohta	N	reakta
 vuosttašgiella	N	voestesgïeli
 vuođđogálga	N	vihkielommes maehtelesvoete
@@ -81,7 +81,7 @@ válljet	V	veeljedh
 vástádus	N	vaestiedasse
 váttis	A	geerve
 álki	A	aelhkie
-árka	N	paepierisnie
+árka	N	paehpierisnie
 árvvoštallat	V	vuarjasjidh
 ávki	N	nåhtojne
 čađahit	V	tjïrrehtidh
