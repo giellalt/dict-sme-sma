@@ -75,15 +75,15 @@ sátneriggodat	N	baakoeveahka
 vuoigatvuohta	N	reakta
 vuosttašgiella	N	voestesgïeli
 vuođđogálga	N	vihkielommes maehtelesvoete
-váldde oktavuođa	MWE	gaskesadth
+váldit oktavuođa	MWE	gaskesadtedh
 váldonjuolggadus	N	åejvienjoelkedasse
 válljet	V	veeljedh
 vástádus	N	vaestiedasse
 váttis	A	geerve
 álki	A	aelhkie
-árka	N	paehpierisnie
+árka	N	paehpere
 árvvoštallat	V	vuarjasjidh
-ávki	N	nåhtojne
+ávki	N	nåhtoe
 čađahit	V	tjïrrehtidh
 čoavdit	V	darjodh
 čálalaččat	Adv	tjaaleldh
