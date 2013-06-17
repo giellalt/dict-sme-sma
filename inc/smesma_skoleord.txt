@@ -1,43 +1,87 @@
-
+...	Adv	eadtjaldovvedh
 Almmolašvuođaláhka	N	Byögkeleslaake
 Oahppodirektoráhta	N	Ööhpehtimmiedirektovrate
+Sápmi	N	Saepmie
+V	ektienidh
+V	guarkedh
+V	krööhkedh
+V	vuavkasjidh
+addit iešluohttámuša	MWE	eadtjaldovvedh
 almmuhuvvot	V	bæjhkoehtidh
+arvvosmahttit	V	eevtjedh
+arvvosmahttit	V	hoksedh
 aviisa	N	plaerie
 bargobihttá	N	laavenjasse
+biddjojuvvot oktii	V	iktedidh
 birget	V	bearkanieh
 boađus	N	illedahkide
+buorebut	A	buerebelaakan
 buot	Indef	gaajhke
+báikkálaččat	Adv	byjreskisnie
 ceahkki	N	daltese
+dahkat diđolazzan	V	vuerkiehtidh
 dattetge	Adv	læjhkan
 davvi-	N	noerhte-
 davvisámegiella	N	noerhtesaemien
 diehtu	N	bïevnese
 digitála	A	digitaale
+dovdat	V guerkiehtidh
+dovdda	N	vååjnoe
 dábálaš	A	gaskoeh
+dádjadit	V	veasodh
 dárogiel-	N	nöörjen
 eallin	N	jielede
 eaŋgalsfága	N	eengelskefaage
 eaŋgalsgiella	N	eengelsken
 eaŋgalsgiella	N	eengelsken gïelesne
+eksámen	N	eksaamene
 elektrovnnalaš	A	elektrovneles
 erenoamášoahpahus	N	sjiereööhpehtimmie
+estehtalaš	A	estetihke
 fuolaheaddjit	N	eejhtegh
+fuolahit	V	hoksedh
 fylkka	N	fylhke
+fágalaš	A	faagen
 fállat	V	faalenassem
 geavahit	V	nåhtadidh
+gehxxojuvvot oktavuohtan	V	ektesne govlesovvedh 
+gelbbolašvuohta	N	maahtaldahke
+gelbbolašvuođamihttomearri	N	maahtaldahkeulmie
+gielalaš	A	gïeleldh		
 gielda	N	tjïelte
+giellagelbbolašvuođas	N	gïelemaahtaldahke
 giellaoahpahus	N	gïeleööhpehtimmie
+giellaovdáneapmi	N	gïeleevtiedimmie
+giellarádji	N	gïeleraajoe
+giellavuogádat	N	gïele bigkesovveme
+govva	N	guvvie
 grammatihkka	N	grammatihke
+gulahallan	N	gaskesadteme
+gulahallat	V	gaskesadtedh
+gullat oktii	V	ektesne govlesovvedh 
+guorahallat	V	goerehtalledh
 gáibidit	V	krïevedh
+gálga	N	maahtoe
 gálgadássi	N	maehtelesvoetedaltese
 gárvát	N	gaervies
+hálddašit	V	maehtedh
 identifiseret	V	identifiseeredh
+identitehta	N	identiteete
 iežaset sániiguin	MWE	jïjtsh baakoejgujmie
+iešguđet ládje	Adv	joekehtslaakan
+ipmirdit	V	goerkesidh
+ipmárdus	N	goerkesimmie
 iskkus	N	pryövenassi
 iskkusbohtosat	MWE	illedahkh pryövenasseste
 iskkusáigi	N	pryövenassetïjje
+jahkeceahkki	N	jaepietsiehkie
+jietna	N	tjoejenasse
+jietnadeapmi	N	tjoejenasse
 julevsámegiella	N	julevsaemien
+jurddašeapmi	N	åssjaldahke
 jávohisvuođageasku	N	sjeavohtsvoetediedte
+kritihkalaš	A	kritihke
+kultuvrralaš	A	kulturelle
 kvalitehta	N	kvaliteete
 lihkostuvvat	V	lyhkesidh
 lohkan	N	lohkeme
@@ -45,45 +89,83 @@ lohkanáddejupmi	N	lohkemegoerkese
 lohku	N	taale
 lulli-	N	åarjel-
 luvvema addit	MWE	baajedh slyöhpedh
+láhčit	V	sjïehteladtedh
 makkár iskkus	MWE	pryövenassesåarhte
 matematihkka	N	matematihke
 mearkkašupmi	N	ulmie
 mearridit	V	nænnoestidh
 mearriduvvon	A	vihties
+mearrádus	N	nænnoestimmie
+media	N	medija
+mediaduohtavuohta	N	medijan aarke
 minuhta	N	minudte
+movtiidahttit	V	skreejrehtidh
+movttiidattit	V	eevtjedh
+máŋggagielalaš	A	gelliegïeleldh
 máŋggaválljenbargobihttá	N	jienebeveeljemelaavenjasse
 našunála	A	nasjonaale
 neahttasiidu	N	nedtesæjroe
 njálmmálaččat	Adv	njaalmeldh
 oahpaheaddji	N	lohkehtæjja
 oahpahus	N	lïerehtimmie
+oahpahus	N	ööhpehtimmie
+oahpahusláhka	N	ööhpehtimmielaake
+oahppanproseassa	N	lïereme
 oahppi	N	learohke
+oahppoplána	N	learoesoejkesje
+oaivil	N	åssjele
+oassi	N	biehkie
 oassi	N	bielie
 oassálastit	V	meatan årrodh
+oppalašárvosátni	N	elliesvïhnesjimmie
 ovdanbuktit	A	soptsestidh
+ovdanbuktit	V	buektedh åvtese
 ovddeš	A	aarebi
+ovddidit	V	skearkagidh
 ovdánahttit	V	evtiedidh
+ovdánahttit	V	skearkagidh
+ovttasbargu	N ektiebarkoe
 ovttaskas	A	aktegs
 ovttaskas	A	såemies
+ođđaáigásaš	A	daalteje
+privatista	N	privatiste
 rabas	A	gaahpoeh
 rastá	Po	dåaresth
 reaidu	N	dïrrege
 rehkenastin	N	ryökneme
 rektor	N	rektore
+sensureret	V	vierhtiedidh
+servodat	N	siebredahke
 sámegiel-	N	saemien
+sámegielfága	N	saamienfaage
 sátneriggodat	N	baakoeveahka
+teaksta	N	teekste
+teakstabuktadeapmi	N	teekstetjaeleme
+teakstačállin	N	teekstetjaeleme
+viiddis	A	vijries
+vijriebasse
+vuohki	N	öörnege
 vuoigatvuohta	N	reakta
 vuosttašgiella	N	voestesgïeli
 vuođđogálga	N	vihkielommes maehtelesvoete
+vuođđu	N	våarome
+váikkuhit	V	dïjpedh
 váldit oktavuođa	MWE	gaskesadtedh
 váldonjuolggadus	N	åejvienjoelkedasse
+váldooassi	N	åejvieboelhke
 válljet	V	veeljedh
 vástádus	N	vaestiedasse
 váttis	A	geerve
 álki	A	aelhkie
 árka	N	paehpere
+árvovuođđu	N	aarvoevåarome
+árvvoštallan	N	vierhtiedimmie
+árvvoštallat	V	vierhtiedidh
 árvvoštallat	V	vuarjasjidh
 ávki	N	nåhtoe
 čađahit	V	tjïrrehtidh
+čiekŋudanfága	N	gïehtjedimmmiefaage
+čiekŋudeapmi	N	gïehtjedimmie
 čoavdit	V	darjodh
+čála	N	tjaalege
 čálalaččat	Adv	tjaaleldh
