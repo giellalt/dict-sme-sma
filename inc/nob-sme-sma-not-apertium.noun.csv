@@ -194,7 +194,7 @@ bud	báhkkon	båvroe
 budsjett	budjeahtta	budsjedte
 budsjett	bušeahtta	budsjehte
 bue	dávgi	gåevie
-buhtis,boazu	buhtis,boazu	bovtse,raejnies
+rein	boazu	bovtse
 bukse	buvssat	måvhka
 bukse	olgguldasbuvssat	bæjngoehmåvhkah
 buksebein	buksa	njïetsege
@@ -204,7 +204,7 @@ bukt	mohkki	gaave
 bukt	mohkki	ierie
 bukt	mohkki	latjka
 bukt	mohkki	loekte
-buktit,mielga	buktit,mielga	buektedh,mïelke
+bringe	mielga	mïelke
 buljong	liepma	lïeme
 bunn	vuođđu	betnie
 bunn	vuođđu	eabnoe
@@ -229,7 +229,7 @@ báhtareaddji	báhtareaddji	baataræjja
 báhčči	báhčči	vijrije
 bálvaleaddji	bálvaleaddji	deanere
 bálvaleaddji	bálvaleaddji	gaagkije
-bártni	bártni	baernie
+barn	bárdni	baernie
 bål	dolla	dålle
 bålplass	árrangáddi	dållesijjie
 bånd	čanas	baadtehtahke
@@ -244,7 +244,6 @@ bøy	hállan	syjje
 campingplass	gohttensadji	gööthjerkie
 dag	beaivi	biejjie
 dagbok	beaivegirji	biejjiegærja
-dagens	otná	daanbeajjetje
 dam	láttu	tjonne
 damp	lievla	goeve
 dampbad	sávdni	åavtoe
@@ -264,11 +263,11 @@ desember	juovlamánnu	goeve
 dialog	dialoga	gaskestalleme
 dikt	dikta	tjihtese
 direktør	direktevra	direktööre
-divrras,ealli	divrras,ealli	dovres,dyjre
+dyr	ealli	dyjre
 djevel	beargalat	bahha
 djupål	oalli	minngiebielie
 do	hivsset	ohtjegåetie
-doarjja,doarjut	doarjja,doarjut	doedtije,duvtedh
+stötte	doarjja	doedtije
 dogg	suoldni	såavla
 dokument	dokumeanta	låhkoe
 dom	duopmu	dåapmoe
@@ -377,7 +376,6 @@ fidnooahppi	fidnooahppi	learohke
 fiellu	fiellu	fealloe
 fiendtlig	vašálaš	gertele
 fil	fiila	fæjloe
-fillet klesplagg	fillet klesplagg	fillet klesplagg
 film	filbma	jielemeguvvie
 film	filbma	jielieguvvie
 finger	suorbma	soerme
@@ -531,15 +529,13 @@ gjær	jeasta	jeestere
 gjøk	giehka	gïeke
 glass	láse	klaase
 glass	lássa	klaase
-glede	illu	geerjedh
-glede	illu	geerjedh,aavoe
+glede	illu	aavoe
 glidelås	rohttenlohkka	kråankelaesie
 glo	hilla	sjïjle
 gnist	čuonan	naestie
 goarru	goarru	skreadtere
 goddin	goddin	buvveme
 gode	buorri	buerie
-godt beite	godt beite	godt beite
 golli	golli	gullie
 golv	láhtti	guelpie
 gomme	guopmi	guemie
@@ -646,6 +642,7 @@ hovedmål	váldoulbmil	åejvietsiehkie
 hubro	lidnu	jïhpe
 hud	liiki	njaltje
 hull	ráigi	haevtie
+humør	mokta	bïevsterh
 hund	beana	bïenje
 hundre	čuohti	stoereluhkie
 hus	viessu	gåetie
@@ -686,7 +683,6 @@ illativ	illatiiva	illatijve
 inessiv	inessiiva	inessijve
 informasjon	diehtojuohkin	bïevnese
 informasjon	informašuvdna	bïevnese
-inngiftet tante	inngiftet tante	inngiftet tante
 inngiftet_onkel	máhka	maaketje
 innhold	sisdoallu	sisvege
 innlegg	sáhkavuorru	lahtese
@@ -706,7 +702,7 @@ is	jiekŋa	jïenge
 isbre	jiehkki	dielhtie
 iskrem	lákcajiekŋa	tjaste
 iver	áŋgirvuohta	vaajnoe
-jagi	jagi	jaepie
+år	jahkii	jaepie
 jakke	jáhkka	tråajja
 jakt	bivdu	væjroe
 jamnhøyde	dássi	daltese
@@ -906,7 +902,8 @@ kvinne	nisu	nyjsene
 kvinnebryst	čižži	njamma
 kyss	cummá	tjuvlie
 kyst	riddu	gaedtie
-kántorbargu,kánttorbargu	kántorbargu,kánttorbargu	kontovrebarkoe
+kontorarbeid	kánttorbargu	kontovrebarkoe
+kontorarbeid	kántorbargu	kontovrebarkoe
 kål	gálla	kåale
 lake	njáhká	njaaka
 laks	luossa	loese
@@ -920,7 +917,7 @@ lasso	suohpan	soehpenje
 lastebil	guorbmebiila	leessemebïjle
 latter	reaškkas	föörhkelh
 lav	vuollegaš	burhvie
-learret	learret	leerehte
+lerret	learret	leerehte
 ledd	lađas	lïhtse
 leder	hoavda	åajvaladtje
 leder	hoavda	åvtehke
@@ -1010,7 +1007,6 @@ løv	lasta	laave
 løype	láhttu	gaasije
 løypemage	doggi	gaasije
 mage	čoavji	tjåejjie
-mai	mai	maajje
 mai	miessemánnu	maajje
 makt	fápmu	faamoe
 mandag	vuossárga	måanta
@@ -1025,6 +1021,7 @@ mann	olmmái	guejmie
 mann	olmmái	voelpe
 mann	olmmái	ålma
 marg	ađa	jïrreme
+marg_i_tre	váimmus	vååjmes
 mark	máhtu	soekse
 marked	márkan	sjeltie
 markjordbær	meahcceeanamuorji	laantemuerjie
@@ -1053,7 +1050,6 @@ meter	mehter	meetere
 middag	gaskabeaivvit	gaskebiejjie
 middag	mállásat	gaskebiejjie
 midnatt	gaskaidja	gaskejïjje
-midt på dagen	midt på dagen	midt på dagen
 midt_på_dagen	gaskabeaivi	gaskebiejjie
 mielli	mielli	vïedtere
 mil	miila	mïjle
@@ -1110,8 +1106,6 @@ måne	mánnu	aske
 måned	mánotbadji	aske
 måneskinn	mánoheahpi	askedibie
 mår	neahti	maarhte
-måte	ládje	vuekie
-måte	láhkai	vuekie
 måte	láhki	vuekie
 måte	vuohki	vuekie
 mønster	minsttar	goere
@@ -1122,7 +1116,7 @@ møtelokale	čoahkkinlatnja	tjåanghkoetjïehtjele
 nabo	kránnjá	graanna
 nabo	ránnjá	graanna
 nabo	siidaguoibmi	graanna
-nagle	návli	noeredh,nuvvie
+nagle	návli	nuvvie
 nakke	niski	tjovrese
 nasjon	našuvdna	nasjovne
 natt	idja	jïjje
@@ -1172,7 +1166,7 @@ nøyaktig	dárkil	veele
 oaggunstággu	oaggunstággu	håagkstaavra
 oahpaheaddji	oahpaheaddji	lohkehtæjja
 oahpaheaddji	oahpaheaddji	ööhpehtæjja
-oahppa,oahppat	oahppa,oahppat	leara,leerehtidh
+lære	oahppa	leara
 oahppan	oahppan	lïerehtimmie
 oahppi	oahppi	learohke
 oambealle	oambealle	åerpele
@@ -1184,7 +1178,7 @@ oktober	golggotmánnu	golke
 oldefar	máttaráddjá	maadteraajja
 oldemor	máttaráhkku	maadteraahka
 older	leaibi	liejpie
-oljet,olju	oljet,olju	ålja
+olje	olju	ålja
 område	duovdda	dajve
 omslag	olggoš	jïele
 omsorg	beroštupmi	hokse
@@ -1248,8 +1242,7 @@ pinne	sággi	herrehke
 pipe	biipu	bæjhpa
 pisk	roaiská	svaatjkoe
 plage	giksi	haerhpie
-plage	vuorjat	haerhpie
-plage	váivvidit	haerhpie
+plage	väivi	haerhpie
 plan	plána	soejkesje
 plaster	loasttar	njimkedahke
 pleie	dikšu	gïetedalleme
@@ -1377,7 +1370,7 @@ rygg	čielgi	rudtje
 rykte	beaggin	såaltje
 rype	rievssat	rïeksege
 rypesnare	rievssatgiella	gaavaldahke
-ráhkkanas,nákcet	ráhkkanas,nákcet	buektiehtidh,daevere
+ráhkkanas	ráhkkanas	daevere
 ráđđeaddi	ráđđeaddi	raerievedtije
 råd	neavva	raerie
 råd	ráđđi	raerie
@@ -1454,7 +1447,6 @@ sevje	máihli	aaloe
 sevje	máihli	juvse
 side	siidu	baahkoe
 sigd	sirpe	tjearone
-siidu,bealde	siidu,bealde	baahkoe
 sik	čuovža	tjoevtje
 sikring	doarjja	dåarjoe
 sild	sallit	sælta
@@ -1629,7 +1621,6 @@ stein	geađgi	gierkie
 steinur	juovva	aarege
 stemme	suopman	smaarege
 sti	bálggis	baalka
-stige	badjánit	raajtere
 stige	ráidalas	raajtere
 stil	stiila	guhkiesboelhke
 stjerne	násti	daasta
@@ -1727,7 +1718,7 @@ tak	dáhkki	rehpie
 tak	rohpi	rehpie
 takk	giittos	gæjhtoe
 takk	giittus	gæjhtoe
-takk	giitu	gæjhtoe,gudtsien
+takk	giitu	gæjhtoe
 tale	sáhka	gaskestalleme
 tale	sáhka	håaleme
 tall	lohku	låhkoe
@@ -1969,8 +1960,8 @@ ytterdør	olgouksa	ålkoeokse
 áhpeheapmi	áhpeheapmi	 nåajsan
 áigemuddu	áigemuddu	aejkiemierie
 áika	áika	haajhke
-áltára	áltára	aalhtere
-árpmu	árpmu	aarmoe
+alter	áltára	aalhtere
+nåde	árbmu	aarmoe
 ássi	ássi	årroje
 áššemeannudeaddji	áššemeannudeaddji	aamhtesegïetedallije
 åker	bealdu	åakere
@@ -2008,3 +1999,5 @@ ytterdør	olgouksa	ålkoeokse
 čálli	čálli	tjaelije
 šiehtadalli	šiehtadalli	doekije
 šlávvanisson	šlávvanisson	sjovne
+dyp	čiekŋalas	vealma
+
