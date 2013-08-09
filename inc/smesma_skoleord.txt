@@ -7,18 +7,17 @@ almmuhit	V	bæjhkoehtidh
 árvvosmahttit	V	hoksedh
 bargobihttá	N	laavenjasse
 biddjojuvvot oktii	V	iktedidh
-birget	V	bearkanieh
+birget	V	bearkanidh
 boađus	N	illedahkide
 buorebut	A	buerebelaakan
-báikkálaččat	Adv	byjreskisnie
+báikkálaččat	Adv	byjreske
 dahkat diđolažžan	V	vuerkiehtidh
 dattetge	Adv	læjhkan
-davvi-	N	noerhte-
+davvi	N	noerhte
 davvisámegiella	N	noerhtesaemien
 diehtu	N	bïevnese
 digitála	A	digitaale
 dovdat	V guerkiehtidh
-dovdda	N	vååjnoe
 dábálaš	A	gaskoeh
 dádjadit	V	veasodh
 dárogiel	N	nöörjen
@@ -55,7 +54,7 @@ identitehta	N	identiteete
 iešguđet ládje	Adv	joekehtslaakan
 ipmirdit	V	goerkesidh
 ipmárdus	N	goerkesimmie
-iskkus	N	pryövenassi
+iskkus	N	pryövenasse
 iskkusbohtosat	MWE	illedahkh pryövenasseste
 iskkusáigi	N	pryövenassetïjje
 jahkeceahkki	N	jaepietsiehkie
@@ -76,7 +75,7 @@ makkár iskkus	MWE	pryövenassesåarhte
 matematihkka	N	matematihke
 mearridit	V	nænnoestidh
 mearriduvvon	A	vihties
-media	N	medija
+media	N	meedije
 mediaduohtavuohta	N	medijan aarke
 movttiidahttit	V	skreejrehtidh
 movttiidahttit	V	eevtjedh
