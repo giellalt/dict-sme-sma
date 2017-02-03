@@ -120,7 +120,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">numo</l>
       </lg>
@@ -130,7 +130,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">numo</l>
       </lg>
@@ -180,7 +180,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">nai</l>
       </lg>
@@ -200,7 +200,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">ge</l>
       </lg>
@@ -280,7 +280,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">davábealde</l>
       </lg>
@@ -300,7 +300,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">ovddabealde</l>
       </lg>
@@ -320,7 +320,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">miehtá</l>
       </lg>
@@ -330,7 +330,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">aisttan</l>
       </lg>
@@ -530,7 +530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">bokte</l>
       </lg>
@@ -540,7 +540,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">bakte</l>
       </lg>
@@ -650,7 +650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">earet</l>
       </lg>
@@ -680,7 +680,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">fárrui</l>
       </lg>
@@ -690,7 +690,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">fárus</l>
       </lg>
@@ -700,7 +700,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">olggobeallai</l>
       </lg>
@@ -710,7 +710,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">gaskal</l>
       </lg>
@@ -780,7 +780,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">geahčen</l>
       </lg>
@@ -820,7 +820,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">guovdelas</l>
       </lg>
@@ -830,7 +830,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">guovdu</l>
       </lg>
@@ -870,7 +870,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">lahka</l>
       </lg>
@@ -920,7 +920,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">maŋŋel</l>
       </lg>
@@ -970,7 +970,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">meattá</l>
       </lg>
@@ -1030,7 +1030,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">ovdal</l>
       </lg>
@@ -1040,7 +1040,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">ovdal</l>
       </lg>
@@ -1460,7 +1460,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">dihto</l>
       </lg>
@@ -1600,7 +1600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef">okta</l>
       </lg>
@@ -1610,7 +1610,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Num">okta</l>
       </lg>
@@ -1640,7 +1640,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef.Attr">iešguhtet</l>
       </lg>
@@ -1650,7 +1650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef.Sg.Loc.Attr">iešguhte</l>
       </lg>
@@ -1780,7 +1780,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Interr.Sg.Nom">mii</l>
       </lg>
@@ -3100,7 +3100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">dárbu</l>
       </lg>
@@ -5180,7 +5180,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Attr">servodatlaš</l>
       </lg>
@@ -5240,7 +5240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr" spec="IV">siskkabealde</l>
       </lg>
@@ -5340,7 +5340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">favorihtta</l>
       </lg>
@@ -5480,7 +5480,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="NomAg">oasseváldi</l>
       </lg>
@@ -7160,7 +7160,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">gužžaheahti</l>
       </lg>
@@ -7170,7 +7170,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">baikaheahti</l>
       </lg>
@@ -7770,7 +7770,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">báikkálaš</l>
       </lg>
@@ -7780,7 +7780,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">ovttajienalaš</l>
       </lg>
@@ -7790,7 +7790,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">guhkilmas</l>
       </lg>
@@ -8370,7 +8370,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sem_Hum_Plc">lagamus</l>
       </lg>
@@ -8410,7 +8410,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">dohkálaš</l>
       </lg>
@@ -8420,7 +8420,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">dohkálaš</l>
       </lg>
@@ -8480,7 +8480,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">duppal</l>
       </lg>
@@ -8610,7 +8610,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">fysalaš</l>
       </lg>
@@ -8650,7 +8650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">etnalaš</l>
       </lg>
@@ -8740,7 +8740,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">psyhkalaš</l>
       </lg>
@@ -12500,7 +12500,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sem_Feat.Sg.Loc">árvu</l>
       </lg>
@@ -23630,7 +23630,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">dieđalaš</l>
       </lg>
@@ -23800,7 +23800,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">rájiidrasttideaddji</l>
       </lg>
@@ -26230,7 +26230,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">borranmiella</l>
       </lg>
@@ -26240,7 +26240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">goiku</l>
       </lg>
@@ -32210,7 +32210,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Attr">majoritehtagielat</l>
       </lg>
@@ -32220,7 +32220,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">majoritehtagielat</l>
       </lg>
@@ -32230,7 +32230,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">guovttegielat</l>
       </lg>
@@ -32240,7 +32240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Attr">eurohpálaš</l>
       </lg>
@@ -32300,7 +32300,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Attr">davviriikkalaš</l>
       </lg>
@@ -32340,7 +32340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">praktihkalaš</l>
       </lg>
@@ -32350,7 +32350,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Attr">norgalaš</l>
       </lg>
@@ -32420,7 +32420,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef">eambbogat</l>
       </lg>
@@ -32540,7 +32540,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">geográfalaš</l>
       </lg>
@@ -32550,7 +32550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">vejolaš</l>
       </lg>
@@ -32570,7 +32570,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">vejolaš</l>
       </lg>
@@ -32580,7 +32580,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">fágalaš</l>
       </lg>
@@ -32590,7 +32590,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef">iešguhtet</l>
       </lg>
@@ -32600,7 +32600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">áhpeheapme</l>
       </lg>
@@ -32810,7 +32810,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">eahpesihkar</l>
       </lg>
@@ -32850,7 +32850,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Pl">vuoras</l>
       </lg>
@@ -32960,7 +32960,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Sg">sámegielat</l>
       </lg>
@@ -32970,7 +32970,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Pl">sámegielat</l>
       </lg>
@@ -33060,7 +33060,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">prinsihpalaš</l>
       </lg>
@@ -33450,7 +33450,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Sg.Nom">buorre</l>
       </lg>
@@ -33550,7 +33550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">bustávalaš</l>
       </lg>
@@ -33580,7 +33580,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">bávččas</l>
       </lg>
@@ -33800,7 +33800,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">ekonomalaš</l>
       </lg>
@@ -33810,7 +33810,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">ekologalaš</l>
       </lg>
@@ -33820,7 +33820,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">elektrovnnalaš</l>
       </lg>
@@ -34530,7 +34530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">loahpalaš</l>
       </lg>
@@ -35010,7 +35010,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">leahkin</l>
       </lg>
@@ -35240,7 +35240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">ollis</l>
       </lg>
@@ -35290,7 +35290,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Sg.Nom">sadjásaš</l>
       </lg>
@@ -35330,7 +35330,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">gaskamuttus</l>
       </lg>
@@ -35390,7 +35390,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">boahtteáigásaš</l>
       </lg>
@@ -36070,7 +36070,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Attr">váibbas</l>
       </lg>
@@ -36410,7 +36410,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">čuovvovaš</l>
       </lg>
@@ -36510,7 +36510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">nammafágalaš</l>
       </lg>
@@ -36520,7 +36520,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">stáhtalaš</l>
       </lg>
@@ -36530,7 +36530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">parlamentáralaš</l>
       </lg>
@@ -36570,7 +36570,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">čearddalaš</l>
       </lg>
@@ -36580,7 +36580,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">statistihkalaš</l>
       </lg>
@@ -36590,7 +36590,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">sosiologalaš</l>
       </lg>
@@ -36600,7 +36600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">giellasosiologalaš</l>
       </lg>
@@ -36610,7 +36610,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">demokráhtalaš</l>
       </lg>
@@ -36620,7 +36620,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">girkolaš</l>
       </lg>
@@ -36640,7 +36640,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">persovnnalaš</l>
       </lg>
@@ -36650,7 +36650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">psykologalaš</l>
       </lg>
@@ -36660,7 +36660,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">pedagogalaš</l>
       </lg>
@@ -36670,7 +36670,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">erenoamášpedagogalaš</l>
       </lg>
@@ -36700,7 +36700,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">strategalaš</l>
       </lg>
@@ -36710,7 +36710,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">giellafágalaš</l>
       </lg>
@@ -36810,7 +36810,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">politihkalaš</l>
       </lg>
@@ -36820,7 +36820,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">giellapolitihkalaš</l>
       </lg>
@@ -36830,7 +36830,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">hálddahuslaš</l>
       </lg>
@@ -36840,7 +36840,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">giellateknologalaš</l>
       </lg>
@@ -36850,7 +36850,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">teknologalaš</l>
       </lg>
@@ -36900,7 +36900,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">geatnegahttojuvvon</l>
       </lg>
@@ -36910,7 +36910,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">geatnegahtton</l>
       </lg>
@@ -36930,7 +36930,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">váilevaš</l>
       </lg>
@@ -36940,7 +36940,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">suohkanlaš</l>
       </lg>
@@ -36950,7 +36950,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">fylkkasuohkanlaš</l>
       </lg>
@@ -36990,7 +36990,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">geográfalaš</l>
       </lg>
@@ -37040,7 +37040,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">mekánalaš</l>
       </lg>
@@ -37050,7 +37050,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Plc">maŋit</l>
       </lg>
@@ -37060,7 +37060,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">historjjálaš</l>
       </lg>
@@ -37070,7 +37070,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">teknihkalaš</l>
       </lg>
@@ -37080,7 +37080,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">juridihkalaš</l>
       </lg>
@@ -37090,7 +37090,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">kritihkalaš</l>
       </lg>
@@ -37100,7 +37100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">musikálalaš</l>
       </lg>
@@ -37120,7 +37120,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">gaskaboddosaš</l>
       </lg>
@@ -37130,7 +37130,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">visot</l>
       </lg>
@@ -37270,7 +37270,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">estehtalaš</l>
       </lg>
@@ -37320,7 +37320,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">lahka</l>
       </lg>
@@ -37340,7 +37340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">studerenráhkkanahtti</l>
       </lg>
@@ -37350,7 +37350,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">fidnofágalaš</l>
       </lg>
@@ -37400,7 +37400,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">grammatihkalaš</l>
       </lg>
@@ -37500,7 +37500,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">regionálalaš</l>
       </lg>
@@ -37550,7 +37550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">dassážii</l>
       </lg>
@@ -37860,7 +37860,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">sadjái</l>
       </lg>
@@ -37890,7 +37890,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">loahpageahčen</l>
       </lg>
@@ -37900,7 +37900,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">loahpageahčen</l>
       </lg>
@@ -37920,7 +37920,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pr">olggobealde</l>
       </lg>
@@ -37980,7 +37980,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">dieđusge</l>
       </lg>
@@ -38080,7 +38080,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="IV.VAbess">beroštit</l>
       </lg>
@@ -38100,7 +38100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="IV">searvat</l>
       </lg>
@@ -38410,7 +38410,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">valjit</l>
       </lg>
@@ -38510,7 +38510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">duođai</l>
       </lg>
@@ -38520,7 +38520,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">dattetge</l>
       </lg>
@@ -38530,7 +38530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">nappo</l>
       </lg>
@@ -38590,7 +38590,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">fal</l>
       </lg>
@@ -38600,7 +38600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">sámás</l>
       </lg>
@@ -39110,7 +39110,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">gosa</l>
       </lg>
@@ -39150,7 +39150,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">aitto</l>
       </lg>
@@ -39220,7 +39220,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">iđđes</l>
       </lg>
@@ -39250,7 +39250,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">mo</l>
       </lg>
@@ -39400,7 +39400,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">gal</l>
       </lg>
@@ -39430,7 +39430,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">eret</l>
       </lg>
@@ -39490,7 +39490,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">muđui</l>
       </lg>
@@ -39500,7 +39500,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">muđuid</l>
       </lg>
@@ -40500,7 +40500,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="IV">leat</l>
       </lg>
@@ -50490,7 +50490,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="IV">oassálastit</l>
       </lg>
@@ -51510,7 +51510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Num">moadde</l>
       </lg>
@@ -51550,7 +51550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Prop">ILO-konvenšuvdna</l>
       </lg>
@@ -52100,7 +52100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Prop" spec="Sem_Org">Ođasmahttindepartemeanta</l>
       </lg>
@@ -52170,7 +52170,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Prop" spec="Sem_Org">Ruhtadandepartemeanta</l>
       </lg>
@@ -53240,7 +53240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Prop" spec="Sem_Plc">Sápmi</l>
       </lg>
@@ -53770,7 +53770,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">oppa</l>
       </lg>
@@ -53800,7 +53800,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">ovttaoaivilis</l>
       </lg>
@@ -53830,7 +53830,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sem_Time.Sg.Ill">iđit</l>
       </lg>
@@ -53850,7 +53850,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">alu</l>
       </lg>
@@ -53880,7 +53880,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">ovtta gievrru</l>
       </lg>
@@ -53890,7 +53890,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">elektronihkalaš</l>
       </lg>
@@ -53900,7 +53900,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">genehtalaš</l>
       </lg>
@@ -53910,7 +53910,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">álbmotrievttalaš</l>
       </lg>
@@ -53920,7 +53920,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">trohpalaš</l>
       </lg>
@@ -53930,7 +53930,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Hum.Attr">árktalaš</l>
       </lg>
@@ -55040,7 +55040,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Attr">genetihkalaš</l>
       </lg>
