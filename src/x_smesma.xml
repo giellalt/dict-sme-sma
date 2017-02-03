@@ -8100,7 +8100,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">psykeles</t>
+            <t morph="n.sg.gen" pos="n">psyke</t>
          </tg>
       </mg>
    </e>
@@ -31420,7 +31420,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">geograafeles</t>
+            <t morph="n.sg.gen" pos="n">geograafe</t>
          </tg>
       </mg>
    </e>
@@ -32560,7 +32560,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">ekonomeles</t>
+            <t morph="n.sg.gen" pos="n">ekonomije</t>
          </tg>
       </mg>
    </e>
@@ -32570,7 +32570,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">elektrovneles</t>
+            <t morph="n.sg.gen" pos="n">elektronihke</t>
          </tg>
       </mg>
    </e>
@@ -35250,7 +35250,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">nommefaageles</t>
+            <t morph="n.sg.gen" pos="n">nommefaage</t>
          </tg>
       </mg>
    </e>
@@ -35270,7 +35270,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">parlamentarihkeles</t>
+            <t morph="n.sg.gen" pos="n">parlamentarihke</t>
          </tg>
       </mg>
    </e>
@@ -35350,7 +35350,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">gyrhkeles</t>
+            <t pos="adj">gærhkoelaaketje</t>
          </tg>
       </mg>
    </e>
@@ -35430,7 +35430,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">strategeles</t>
+            <t morph="n.sg.gen" pos="n">stratege</t>
          </tg>
       </mg>
    </e>
@@ -35540,7 +35540,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">politihkeles</t>
+            <t morph="n.sg.gen" pos="n">politihke</t>
          </tg>
       </mg>
    </e>
@@ -35550,7 +35550,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">gïelepolitihkeles</t>
+            <t morph="n.sg.gen" pos="n">gïelepolitihke</t>
          </tg>
       </mg>
    </e>
@@ -35570,7 +35570,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">gïeleteknologeles</t>
+            <t morph="n.sg.gen" pos="n">gïeleteknologije</t>
          </tg>
       </mg>
    </e>
@@ -35580,7 +35580,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">teknologeles</t>
+            <t morph="n.sg.gen" pos="n">teknologije</t>
          </tg>
       </mg>
    </e>
@@ -35720,7 +35720,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">geograafeles</t>
+            <t morph="n.sg.gen" pos="n">geografije</t>
          </tg>
       </mg>
    </e>
@@ -35770,7 +35770,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">mekanihkeles</t>
+            <t morph="n.sg.gen" pos="n">mekanihke</t>
          </tg>
       </mg>
    </e>
@@ -35790,7 +35790,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">historihkeles</t>
+            <t morph="n.sg.gen" pos="n">historihke</t>
          </tg>
       </mg>
    </e>
@@ -35800,7 +35800,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">teknihkeles</t>
+            <t morph="n.sg.gen" pos="n">teknihke</t>
          </tg>
       </mg>
    </e>
@@ -35810,7 +35810,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">juridihkeles</t>
+            <t morph="n.sg.gen" pos="n">juridihke</t>
          </tg>
       </mg>
    </e>
@@ -35820,7 +35820,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">kritihkeles</t>
+            <t morph="n.sg.gen" pos="n">kritihke</t>
          </tg>
       </mg>
    </e>
@@ -35830,7 +35830,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">musihkeles</t>
+            <t morph="n.sg.gen" pos="n">musihke</t>
          </tg>
       </mg>
    </e>
@@ -35990,7 +35990,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">estetihkeles</t>
+            <t morph="n.sg.gen" pos="n">estetihke</t>
          </tg>
       </mg>
    </e>
@@ -36120,7 +36120,7 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="adj">grammatihkeles</t>
+            <t morph="n.sg.gen" pos="n">grammatihke</t>
          </tg>
       </mg>
    </e>
