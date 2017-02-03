@@ -38994,14 +38994,34 @@
             <t pos="Pron" spec="Pers.1p.Sg">manne</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" spec="Pers.1p.Du">moai</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Pron" spec="Pers.1p.Du">månnoeh</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" spec="Pers.1p.Pl">mii</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Pron" spec="Pers.1p.Pl">mijjieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" spec="Pers.2p.pl">dii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" spec="Pers.2p.Pl">dijjieh</t>
          </tg>
       </mg>
    </e>
@@ -39014,14 +39034,14 @@
             <t pos="Pron" spec="Pers.2p.Sg">datne</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" spec="Pers.2p.Du">doai</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Pron" spec="Pers.2p.Du">dåtnoeh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pron" spec="Pers.2p.Pl">dijjieh</t>
          </tg>
       </mg>
    </e>
@@ -39039,16 +39059,11 @@
             <t pos="Pron" spec="Logo.3p.Sg">satne</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pron" spec="Logo.3p.Du">såtnoeh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pron" spec="Logo.3p.Pl">sijjieh</t>
-         </tg>
-      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" spec="Pers.3p.Du">soai</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Pron" spec="Pers.3p.Du">dah guaktah</t>
@@ -39056,7 +39071,22 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="Pron" spec="Logo.3p.Sg">såtnoeh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" spec="Pers.3p.Pl">sii</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="Pron" spec="Pers.3p.Pl">dah</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" spec="Logo.3p.Pl">sijjieh</t>
          </tg>
       </mg>
    </e>
@@ -39069,27 +39099,7 @@
             <t pos="Pron" spec="Rel">mij</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pron" spec="Rel.Sg.Acc">mij</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pron" spec="Interr">mij</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pron" spec="Interr.Sg.Nom">mij</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">guktie</t>
-         </tg>
-      </mg>
-   </e>
+  </e>
    <e>
       <lg>
          <l pos="Pron" spec="Rel">gii</l>
@@ -39097,16 +39107,6 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="Pron" spec="Rel">gie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pron" spec="Indef">giege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pron" spec="Interr">gie</t>
          </tg>
       </mg>
    </e>
