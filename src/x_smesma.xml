@@ -692,16 +692,32 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="V">gåaradidh</t>
+            <xg>
+               <x>Lea vejolaš addit stipeandda sihke joatkkaskuvlla ohppiide...</x>
+               <xt>Gåarede stipeendem vedtedh dovne jåarhkeskuvlen learoehkidie...</xt>
+            </xg>
+            <xg>
+               <x>Ja danne ii leat ge vejolaš gávnnahit sámegielagiid logu dáinna vugiin.</x>
+               <xt>Jïh dannasinie ij vielie gåaredh daejredh man jïjnjh almetjh mah naemhtie saemiestieh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" spec="Attr">nuepies</t>
+            <xg>
+               <x>... jus gielaid ii leat vejolaš geavahit árgabeaivvis.</x>
+               <xt>... jis ij leah nuepie gïelem fïerhtenbeajjetjegïeline utnedh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">buektiehtidh</t>
+            <xg>
+               <x>Ii leat dássážii leamaš vejolaš juolludit eambbo go 5-600.000 ruvnno...</x>
+               <xt>Ij leah buektiehtamme vielie goh 5-600.000 kråvnah vedtedh...</xt>
+            </xg>
          </tg>
       </mg>
    </e>
