@@ -40422,16 +40422,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">Danmark</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Danmarhke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Prop">Davvi-Trøndeláhka</l>
       </lg>
       <mg>
@@ -40467,16 +40457,6 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="Prop">Eengerdaelie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Finland</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Såevmie</t>
          </tg>
       </mg>
    </e>
@@ -40692,16 +40672,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop">Nordland</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Nordlaante</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Prop">Nordlánda</l>
       </lg>
       <mg>
@@ -40802,51 +40772,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop" spec="Sem_Plc.Attr">Saemien</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop" spec="Sg.Gen">Saemie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Saemien Sijte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Saemien Sïjte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Sametinget</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Saemiedigkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Prop">Selbu</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Prop">Saalbuge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Sijte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Sïjte</t>
          </tg>
       </mg>
    </e>
@@ -40887,16 +40817,6 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="Prop">Svahken</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Sverige</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Sveerje</t>
          </tg>
       </mg>
    </e>
