@@ -866,7 +866,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V" spec="TV.PrsPrc">fååtesidh</t>
+            <t gen_only="none" pos="V" spec="TV.PrsPrc">fååtesæjja</t>
          </tg>
       </mg>
    </e>
@@ -2471,7 +2471,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Der_A.A.Superl">minngie</t>
+            <t gen_only="none" pos="N" spec="Der_A.A.Superl">minngemes</t>
          </tg>
       </mg>
    </e>
@@ -3006,7 +3006,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Ine">sijjie</t>
+            <t gen_only="none" pos="N" spec="Sg.Ine">sijjesne</t>
          </tg>
       </mg>
    </e>
@@ -4401,7 +4401,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V" spec="PrsPrc">reeredh</t>
+            <t gen_only="none" pos="V" spec="PrsPrc">reerije</t>
          </tg>
       </mg>
    </e>
@@ -4571,7 +4571,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Der_A.A">minngie</t>
+            <t gen_only="none" pos="N" spec="Der_A.A">minngebe</t>
          </tg>
       </mg>
    </e>
@@ -4781,7 +4781,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl.Gen">barkoefaage</t>
+            <t gen_only="none" pos="N" spec="Pl.Gen">barkoefaagi</t>
          </tg>
       </mg>
    </e>
@@ -5041,7 +5041,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Gen">elektronihke</t>
+            <t gen_only="none" pos="N" spec="Sg.Gen">elektronihken</t>
          </tg>
       </mg>
    </e>
@@ -5051,7 +5051,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Gen">genetihke</t>
+            <t gen_only="none" pos="N" spec="Sg.Gen">genetihken</t>
          </tg>
       </mg>
    </e>
@@ -5061,7 +5061,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Gen">åålmehreakta</t>
+            <t gen_only="none" pos="N" spec="Sg.Gen">åålmehreaktan</t>
          </tg>
       </mg>
    </e>
@@ -5071,7 +5071,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Gen">tropihke</t>
+            <t gen_only="none" pos="N" spec="Sg.Gen">tropihken</t>
          </tg>
       </mg>
    </e>
@@ -5081,7 +5081,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Gen">arktihke</t>
+            <t gen_only="none" pos="N" spec="Sg.Gen">arktihken</t>
          </tg>
       </mg>
    </e>
@@ -5141,7 +5141,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Gen">genetihke</t>
+            <t gen_only="none" pos="N" spec="Sg.Gen">genetihken</t>
          </tg>
       </mg>
    </e>
@@ -6336,7 +6336,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Ine">saemiengïele</t>
+            <t gen_only="none" pos="N" spec="Sg.Ine">saemiengïelesne</t>
          </tg>
       </mg>
    </e>
@@ -6826,7 +6826,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Ill">sijjie</t>
+            <t gen_only="none" pos="N" spec="Sg.Ill">sæjjan</t>
          </tg>
       </mg>
    </e>
@@ -6911,7 +6911,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Gen">aerede</t>
+            <t gen_only="none" pos="N" spec="Sg.Gen">aereden</t>
          </tg>
       </mg>
    </e>
@@ -7111,7 +7111,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" spec="Dem.Sg.Ela">dïhte</t>
+            <t gen_only="none" pos="Pron" spec="Dem.Sg.Ela">destie</t>
          </tg>
       </mg>
    </e>
@@ -8706,17 +8706,27 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Nom">båetije biejjie</t>
+            <t gen_only="none" pos="N" spec="Sg.Nom">båetije biejjie</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" spec="Sg.Gen">boahtteáigge</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Gen">båetije biejjie</t>
+            <t gen_only="none" pos="N" spec="Sg.Gen">båetijen biejjien</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" spec="Sg.Ill">boahtteáigái</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Ill">båetije biejjie</t>
+            <t gen_only="none" pos="N" spec="Sg.Ill">båetijen beajjan</t>
          </tg>
       </mg>
    </e>
@@ -13421,7 +13431,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" spec="Superl">gietskies</t>
+            <t gen_only="none" pos="A" spec="Superl">gietskemes</t>
          </tg>
       </mg>
    </e>
@@ -19892,7 +19902,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N" spec="Der_NomAg.Sem_Hum.Pl">maŋisboahtti</l>
+         <l pos="N" spec="Der_NomAg.Sem_Hum.Pl">maŋisboahttit</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21996,7 +22006,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl.Nom">åejjie</t>
+            <t pos="N" spec="Pl.Nom">åejjieh</t>
          </tg>
       </mg>
       <mg>
@@ -31121,7 +31131,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">nænnoestimmiereakta</t>
+            <t gen_only="none" pos="N" spec="Pl">nænnoestimmiereaktah</t>
          </tg>
       </mg>
    </e>
@@ -38626,7 +38636,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Ela">sijjie</t>
+            <t gen_only="none" pos="N" spec="Sg.Ela">sijjeste</t>
          </tg>
       </mg>
    </e>
