@@ -675,7 +675,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="ok">
+   <e xpos="obs">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">vejolaš</l>
       </lg>
@@ -4441,7 +4441,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="ok">
+   <e xpos="obs">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">geatnegahttojuvvon</l>
       </lg>
@@ -4455,7 +4455,7 @@
             </tg>
       </mg>
    </e>
-   <e xpos="ok">
+   <e xpos="obs">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">geatnegahtton</l>
       </lg>
