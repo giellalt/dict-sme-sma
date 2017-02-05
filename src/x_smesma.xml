@@ -9430,12 +9430,12 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">stuhtje</t>
+            <t pos="N">bielie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bielie</t>
+            <t pos="N">stuhtje</t>
          </tg>
       </mg>
    </e>
@@ -9548,14 +9548,14 @@
             <t pos="N">biesie</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" spec="G3">beassi</l>  
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">biessie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">bissie</t>
          </tg>
       </mg>
    </e>
@@ -10306,16 +10306,6 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="N">båatsoebïenje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">båatsoeburrie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">båatsoealmetje</t>
          </tg>
       </mg>
    </e>
@@ -11673,11 +11663,6 @@
             <t pos="N">raajese</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">baakoe</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -12026,10 +12011,6 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="N">daatavåarome</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">daajroevåarome</t>
          </tg>
       </mg>
@@ -12130,17 +12111,13 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>áigi</re>
             <t pos="N">tæjmoe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">tsåahka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">aavroe</t>
          </tg>
       </mg>
    </e>
@@ -13845,7 +13822,8 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">pensjoniste</t>
+         <re>olbmo birra</re>
+            <t pos="N">pensjovne</t>
          </tg>
       </mg>
    </e>
@@ -21170,6 +21148,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>bearrašis</re>
             <t pos="N">daktere</t>
          </tg>
       </mg>
@@ -21986,11 +21965,6 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="N">åejjie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" spec="Pl.Nom">åejjieh</t>
          </tg>
       </mg>
       <mg>
@@ -26791,11 +26765,6 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="N">onnevïelle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">åerpene</t>
          </tg>
       </mg>
    </e>
@@ -43276,16 +43245,19 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>gahpira</re>
             <t pos="V" spec="TV">tsaekedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>juolgegárvvuid</re>
             <t pos="V" spec="TV">gaamedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>biktasiid</re>
             <t pos="V" spec="TV">gåårvedidh</t>
          </tg>
       </mg>
@@ -49866,6 +49838,7 @@
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>guoli</re>
             <t pos="V" spec="TV">tjööledh</t>
          </tg>
       </mg>
@@ -50575,7 +50548,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="obs">
       <lg>
          <l pos="V" spec="TV">mearkkašit</l>
       </lg>
@@ -51721,11 +51694,7 @@
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">vaasedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+         <re>dáiggi birra</re>
             <t pos="V">easalovvedh</t>
          </tg>
       </mg>
