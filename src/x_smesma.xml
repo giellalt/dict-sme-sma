@@ -12228,7 +12228,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjoejhke</t>
+            <t pos="N">åhtoe</t>
          </tg>
       </mg>
    </e>
@@ -37460,11 +37460,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Po">baaktoe</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="CS">jis</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -37473,11 +37468,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="Po">baaktoe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="CS">jis</t>
          </tg>
       </mg>
    </e>
@@ -39324,16 +39314,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="Prop">Eriksen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Áltá</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Prop">Nordlánddadutkan</l>
       </lg>
       <mg>
@@ -39704,16 +39684,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="Prop">Álbmotmusea</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Álbmotmuséa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Prop">Ásia</l>
       </lg>
       <mg>
@@ -39888,6 +39858,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>biibbalis</re>
             <t pos="Prop">Isak</t>
          </tg>
       </mg>
@@ -39898,6 +39869,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>biibbalis</re>
             <t pos="Prop">Josef</t>
          </tg>
       </mg>
@@ -39908,6 +39880,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>biibbalis</re>
             <t pos="Prop">Jåhha</t>
          </tg>
       </mg>
@@ -39938,6 +39911,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>biibbalis</re>
             <t pos="Prop">Labaane</t>
          </tg>
       </mg>
@@ -40124,26 +40098,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="Prop">Svahke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Svahken</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Sálašvággi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Prop">Trompenvuemie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Prop">Sámediggi</l>
       </lg>
       <mg>
@@ -40161,11 +40115,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Prop">Saepmie</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">saemie</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -40173,6 +40122,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>biibbalis</re>
             <t pos="Prop">Saara</t>
          </tg>
       </mg>
