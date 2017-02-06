@@ -5973,6 +5973,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>earret eará</re>
             <t pos="Adv">gaskem jeatjah</t>
          </tg>
       </mg>
@@ -7223,6 +7224,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>sullii</re>
             <t pos="Adv">medtie</t>
          </tg>
       </mg>
@@ -7923,6 +7925,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>ovdamearkka dihte</re>
             <t pos="Adv">vuesiehtimmien gaavhtan</t>
          </tg>
       </mg>
@@ -7933,6 +7936,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>ja nu viidáseappot</re>
             <t pos="Adv" spec="ABBR">jnv</t>
          </tg>
       </mg>
@@ -7943,6 +7947,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>ja nu ain</re>
             <t pos="Adv" spec="ABBR">jnv</t>
          </tg>
       </mg>
@@ -8403,6 +8408,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>ruvdnu</re>
             <t pos="N" spec="ABBR">kr</t>
          </tg>
       </mg>
@@ -8413,6 +8419,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>kruvdnu</re>
             <t pos="N" spec="ABBR">kr</t>
          </tg>
       </mg>
@@ -8423,6 +8430,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>nummar</re>
             <t pos="N" spec="ABBR">nr</t>
          </tg>
       </mg>
@@ -8453,6 +8461,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>joatkkaskuvlakursa 1</re>
             <t pos="N" spec="ACR">Jå1</t>
          </tg>
       </mg>
@@ -8463,6 +8472,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>joatkkaskuvlakursa 2</re>
             <t pos="N" spec="ACR">Jå2</t>
          </tg>
       </mg>
@@ -8473,6 +8483,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>joatkkaskuvlakursa 3</re>
             <t pos="N" spec="ACR">Jå3</t>
          </tg>
       </mg>
@@ -12182,6 +12193,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">skïemtjesåjhtere</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">dikšu</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
            <re>dahku</re>
@@ -12991,11 +13007,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N" spec="ABBR.Attr">áššenr</l>
+         <l pos="N">áššenummar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Sg.Nom">aamhtesenummere</t>
+            <t pos="N">aamhtesenummere</t>
          </tg>
       </mg>
    </e>
@@ -13486,7 +13502,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N" type="NomAg">oamastanriekti</l>
+         <l pos="N">oamastanriekti</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19274,6 +19290,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">lohkije</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lohkki</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">luehkie</t>
@@ -19887,7 +19908,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N" spec="Der_NomAg.Sem_Hum.Pl">maŋisboahttit</l>
+         <l pos="N" type="NomAg" nr="Pl">maŋisboahttit</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27425,6 +27446,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">doekije</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vuovdi</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">skåake</t>
@@ -27608,7 +27634,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N" type="NomAg">váldi</l>
+         <l pos="N">váldi</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31693,10 +31719,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="N">raerije</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">raeriestæjja</t>
          </tg>
       </mg>
@@ -42418,11 +42440,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V" spec="IV">aelkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V" spec="IV">sjïdtedh</t>
          </tg>
       </mg>
@@ -42573,6 +42590,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>guohtut</re>
             <t pos="V" spec="TV">gåatodh</t>
          </tg>
       </mg>
@@ -46011,16 +46029,19 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>dadjat</re>
             <t pos="V" spec="TV">jiehtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>teavstta</re>
             <t pos="V" spec="TV">lohkedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>okta-guokte-golbma</re>
             <t pos="V" spec="TV">ryöknedh</t>
          </tg>
       </mg>
