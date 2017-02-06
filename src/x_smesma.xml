@@ -448,7 +448,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="A">rájiidrasttideaddji</l>
       </lg>
@@ -4792,7 +4792,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="A">studerenráhkkanahtti</l>
       </lg>
@@ -5192,7 +5192,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">numo</l>
       </lg>
@@ -5752,7 +5752,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Adv">dassážii</l>
       </lg>
@@ -8445,7 +8445,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="obs">
       <lg>
          <l pos="N" spec="ACR">OHD</l>
       </lg>
@@ -8690,26 +8690,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">km</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">km</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">kg</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">eiseváldi</l>
       </lg>
       <mg>
@@ -8788,7 +8768,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="N">dárbu</l>
       </lg>
@@ -9832,16 +9812,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">NRL</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">NBR</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="NomAg">doaimmaheaddji</l>
       </lg>
       <mg>
@@ -10712,16 +10682,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">m2</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">m2</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">ovttamielalašvuohta</l>
       </lg>
       <mg>
@@ -10790,7 +10750,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="N">favorihtta</l>
       </lg>
@@ -11206,11 +11166,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>vuoján</re>
             <t pos="N">busse</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>seahkka</re>
             <t pos="N">voessetje</t>
          </tg>
       </mg>
@@ -13022,136 +12984,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="N">noerepolitihke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kV</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">kV</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">PFL</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">PFL</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">NČE</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">NČE</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">COP</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">COP</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">RPU</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">RPU</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SR</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SR</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">AWG</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">AWG</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SAK</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SAK</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SEAD</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SEAD</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">PDAC</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">PDAC</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">OED</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">OED</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">EKL</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">EKL</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">BFOL</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">BFOL</t>
          </tg>
       </mg>
    </e>
@@ -16845,6 +16677,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">gaalloe</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">gállu</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">svaaloe</t>
@@ -23519,10 +23356,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="N">båskoe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">hïngse</t>
          </tg>
       </mg>
@@ -35785,16 +35618,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">PRM</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">PRM</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">beaivválašgiella</l>
       </lg>
       <mg>
@@ -36110,91 +35933,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">NATO</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">NATO</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">NAVO</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">NAVO</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">oahpahusdirektoráhtta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">ööhpehtimmiedirektoraate</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SEFO</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SEFO</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SUPU</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SUPU</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SURT</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SURT</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SVL</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SVL</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SVL-N</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SVL-N</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ILO</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">ILO</t>
          </tg>
       </mg>
    </e>
@@ -36305,136 +36048,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Coll" nr="Pl">låhkesh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">GPS</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">GPS</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ovttas.no</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">ovttas.no</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">NBR</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">NBR</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">NSR</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">NSR</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SÁB</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SÁB</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SNPL</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SNPL</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">SPR</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">SPR</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">EMRIP</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">EMRIP</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">MW</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">MW</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">DC</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">DC</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">CO2</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">CO2</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">AS</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">AS</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">TV</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">TV</t>
          </tg>
       </mg>
    </e>
@@ -38404,7 +38017,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Po">sadjái</l>
       </lg>
@@ -38484,7 +38097,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Pr">aisttan</l>
       </lg>
@@ -39159,7 +38772,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Pron" spec="Indef">eambbogat</l>
       </lg>
