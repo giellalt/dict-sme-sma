@@ -9279,16 +9279,23 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
+         <l pos="N" spec="NomAg">bassi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>bargi</re>
+            <t pos="N">bïssije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N" spec="Sem_Time">bassi</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>beaivi</re>
             <t pos="N">bissiebiejjie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">bïssije</t>
          </tg>
       </mg>
    </e>
@@ -12140,17 +12147,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>neavvu</re>
             <t pos="N">tsåahka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">jr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">jr</t>
          </tg>
       </mg>
    </e>
@@ -12180,11 +12178,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+          <re>bargi</re>
             <t pos="N">skïemtjesåjhtere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+           <re>dahku</re>
             <t pos="N">såjhtoe</t>
          </tg>
       </mg>

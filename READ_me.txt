@@ -17,7 +17,7 @@ Liste over flere ord i inc/severaltransl_list.txt
 
 
 * Stryke oversettinger som er overflødige, eller er ment for helt spesielle tilfeller  (stryk tilsvarende ordpar fra smasme/src/x_smasme.xml)
-* og/eller legge til eksempel eller <re>:
+* og/eller legge til eksempel eller <re> (innholdet i re skal være på sme, fordi det er ment for den som ikke kan sma)
 
    <e>
       <lg>
