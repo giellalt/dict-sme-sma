@@ -76,7 +76,7 @@ Liste over flere ord i inc/severaltransl_list.txt
    </e>
   
 
-* Endre rekkefølge slik at den mest generelle mg kommer først
+* Endre rekkefølge slik at den mest generelle mg kommer først (hvis det virker fornuftig)
 
 Lista oppdateres med denne:
 
