@@ -10305,7 +10305,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">voeresbeetnegh</t>
+            <t pos="N" nr="Pl">voeresbeetnegh</t>
          </tg>
       </mg>
    </e>
@@ -12830,7 +12830,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">goerkesh</t>
+            <t pos="N" nr="Pl">goerkesh</t>
          </tg>
       </mg>
    </e>
@@ -12860,7 +12860,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">daalhkesh</t>
+            <t pos="N" nr="Pl">daalhkesh</t>
          </tg>
       </mg>
    </e>
@@ -13255,7 +13255,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">krodth</t>
+            <t pos="N" nr="Pl">krodth</t>
          </tg>
       </mg>
    </e>
@@ -13265,7 +13265,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">krodth</t>
+            <t pos="N" nr="Pl">krodth</t>
          </tg>
       </mg>
    </e>
@@ -13275,7 +13275,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">krodth</t>
+            <t pos="N" nr="Pl">krodth</t>
          </tg>
       </mg>
    </e>
@@ -20281,7 +20281,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">daalhkesh</t>
+            <t pos="N" nr="Pl">daalhkesh</t>
          </tg>
       </mg>
    </e>
@@ -20406,7 +20406,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">bïevsterh</t>
+            <t pos="N" nr="Pl">bïevsterh</t>
          </tg>
       </mg>
    </e>
@@ -22882,7 +22882,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">vuartasjæjja</t>
+            <t pos="N" nr="Pl">vuartasjæjja</t>
          </tg>
       </mg>
    </e>
@@ -23067,7 +23067,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">föörhkelh</t>
+            <t pos="N" nr="Pl">föörhkelh</t>
          </tg>
       </mg>
    </e>
@@ -31107,7 +31107,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t gen_only="none" pos="N" spec="Pl">nænnoestimmiereaktah</t>
+            <t gen_only="none" pos="N" nr="Pl">nænnoestimmiereaktah</t>
          </tg>
       </mg>
    </e>
@@ -32462,7 +32462,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">lohkehtimmiedeerpegh</t>
+            <t pos="N" nr="Pl">lohkehtimmiedeerpegh</t>
          </tg>
       </mg>
    </e>
@@ -35892,7 +35892,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">byjreskrodth</t>
+            <t pos="N" nr="Pl">byjreskrodth</t>
          </tg>
       </mg>
    </e>
@@ -36202,7 +36202,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">gööktesh</t>
+            <t pos="N" type="Coll" nr="Pl">gööktesh</t>
          </tg>
       </mg>
    </e>
@@ -36212,7 +36212,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">golmesh</t>
+            <t pos="N" type="Coll" nr="Pl">golmesh</t>
          </tg>
       </mg>
    </e>
@@ -36222,7 +36222,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">njealjesh</t>
+            <t pos="N" type="Coll" nr="Pl">njealjesh</t>
          </tg>
       </mg>
    </e>
@@ -36232,7 +36232,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">vïjhtesh</t>
+            <t pos="N" type="Coll" nr="Pl">vïjhtesh</t>
          </tg>
       </mg>
    </e>
@@ -36242,7 +36242,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">govhtesh</t>
+            <t pos="N" type="Coll" nr="Pl">govhtesh</t>
          </tg>
       </mg>
    </e>
@@ -36252,7 +36252,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">tjïjhtjesh</t>
+            <t pos="N" type="Coll" nr="Pl">tjïjhtjesh</t>
          </tg>
       </mg>
    </e>
@@ -36262,7 +36262,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">gaaktsesh</t>
+            <t pos="N" type="Coll" nr="Pl">gaaktsesh</t>
          </tg>
       </mg>
    </e>
@@ -36272,7 +36272,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">åktsesh</t>
+            <t pos="N" type="Coll" nr="Pl">åktsesh</t>
          </tg>
       </mg>
    </e>
@@ -36282,7 +36282,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Coll" spec="Pl">låhkesh</t>
+            <t pos="N" type="Coll" nr="Pl">låhkesh</t>
          </tg>
       </mg>
    </e>
@@ -36657,7 +36657,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">deerpegh</t>
+            <t pos="N" nr="Pl">deerpegh</t>
          </tg>
       </mg>
    </e>
@@ -36957,7 +36957,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" spec="Pl">eejhtegh</t>
+            <t pos="N" nr="Pl">eejhtegh</t>
          </tg>
       </mg>
    </e>
@@ -39233,7 +39233,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Prop" spec="Pl">Staatenbægkoeh</t>
+            <t pos="Prop" nr="Pl">Staatenbægkoeh</t>
          </tg>
       </mg>
    </e>
