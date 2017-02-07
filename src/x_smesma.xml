@@ -25027,7 +25027,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">spiller</l>
+         <l pos="N" type="NomAg">spealli</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28867,6 +28867,16 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
+         <l pos="N">orrunlatnja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">ståapoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">čohkohallanlatnja</l>
       </lg>
       <mg>
@@ -28952,16 +28962,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="N">tjoejhke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="NomAg">čuojaheaddji</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">daabloehtæjja</t>
          </tg>
       </mg>
    </e>
