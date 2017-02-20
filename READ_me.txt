@@ -14,7 +14,7 @@ sorbmet
 
 
 Kommando for å se bare entryer med flere enn en oversetting, som ei liste med sme-ord pluss sma-oversettinger, inkludert <re> som RESTR:
-sed  's/<e/¢<e/' src/x_smesma.xml | tr '\n' '€' | tr '¢' '\n' | grep '<mg>.*<mg>' | tr '€' '\n' |sed 's/<l /¢<l /' | sed 's/<t /¢<t /g' |egrep '(¢|<re>)' |sed 's/<re>/>>RESTR: /' |tr '<' '>' | cut -d '>' -f1,3 |less
+sed  's/<e/¢<e/' src/all_smesma.xml | tr '\n' '€' | tr '¢' '\n' | grep '<mg>.*<mg>' | tr '€' '\n' |sed 's/<l /¢<l /' | sed 's/<t /¢<t /g' |egrep '(¢|<re>)' |sed 's/<re>/>>RESTR: /' |tr '<' '>' | cut -d '>' -f1,3 |less
 
 Kommando for å se alle entryer som ei liste med sme-ord pluss sma-oversettinger, inkludert <re> som RESTR:
 sed 's/<l /¢<l /' src/*.xml | sed 's/<t /¢<t /g' | egrep '(¢|<re>)' |sed 's/<re>/>>RESTR: /' |tr '<' '>' | cut -d '>' -f1,3 |less

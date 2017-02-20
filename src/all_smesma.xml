@@ -688,16 +688,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t gen_only="none" pos="N" spec="Sg.Gen">geograafen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t gen_only="none" pos="N" spec="Sg.Gen">geografijen</t>
          </tg>
       </mg>
    </e>
-   <e xpos="obs">
+   <e xpos="ok">
       <lg>
          <l pos="A" spec="Sem_Dummytag.Sg.Nom">vejolaš</l>
       </lg>
@@ -892,12 +887,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="A">faeties</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t gen_only="none" pos="V" spec="TV.PrsPrc">fååtesæjja</t>
-         </tg>
-      </mg>
-   </e>
+//   </e>
    <e xpos="ok">
       <lg>
          <l pos="A">eahpesihkar</l>
@@ -1212,11 +1202,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="A">ammes</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t gen_only="none" pos="A" spec="Der_laakan.Adv">ammeslaakan</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -1385,11 +1370,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="A">båetije</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">minngebe</t>
          </tg>
       </mg>
    </e>
@@ -2090,11 +2070,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="A">gamte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">garmeres</t>
          </tg>
       </mg>
    </e>
@@ -20578,7 +20553,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaskebiejjie</t>
+         <re>middag</re>
+            <t pos="N">gaskebiejjhbeapmoe</t>
          </tg>
       </mg>
    </e>
@@ -21028,8 +21004,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma">
-         <re>bearrašis</re>
-            <t pos="N">daktere</t>
+         <re>datter som er gift eller har barn</re>
+            <t pos="N">daktere</t> 
          </tg>
       </mg>
    </e>
