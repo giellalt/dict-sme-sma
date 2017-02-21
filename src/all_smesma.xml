@@ -171,11 +171,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t gen_only="none" pos="N" spec="Sg.Gen">dajven</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">voenges</t>
-         </tg>
-      </mg>
    </e>
    <e xpos="ok">
       <lg>
@@ -1018,7 +1013,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang= bare samisksprklig om mnsk>
             <t pos="N">saemiestæjja</t>
          </tg>
       </mg>
@@ -1475,11 +1470,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="A">baaktjes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" spec="Ind">saejriedidh</t>
          </tg>
       </mg>
    </e>
@@ -2172,11 +2162,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="A">sjiehteles</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">sjïehteles</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -2305,11 +2290,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="A">sjeavohth</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">stööves</t>
          </tg>
       </mg>
    </e>
@@ -2844,12 +2824,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">hearskoes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">sieties</t>
+            <t pos="A">njaelkies</t>
          </tg>
       </mg>
    </e>
@@ -3583,12 +3558,12 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          <l pos="A">viiddis</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang= om terrengområde, tema abstrakt>
             <t pos="A">vijries</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang= om klær>
             <t pos="A">geljies</t>
          </tg>
       </mg>
@@ -4029,11 +4004,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">annjebodts</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">annjebodts</t>
          </tg>
       </mg>
@@ -4095,11 +4065,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="A">gööktengïeleh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">saemiestæjja</t>
          </tg>
       </mg>
    </e>
@@ -4333,7 +4298,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang= "arvelig">
             <t pos="A">eerpeles</t>
          </tg>
       </mg>
@@ -5900,16 +5865,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Adv">sjïere</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">joekoenlaakan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">eeremes</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -6724,11 +6679,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">ieskien</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">voestegh</t>
          </tg>
       </mg>
    </e>
