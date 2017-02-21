@@ -1014,6 +1014,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang= bare samisksprklig om mnsk>
+              <re:lang= bare samisksprklig om mnsk/re>
             <t pos="N">saemiestæjja</t>
          </tg>
       </mg>
@@ -3464,11 +3465,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+          <re>om fisk, kjøtt, avføring</re>
             <t pos="A">njabre</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>om spor (ikke i snø)</re>
             <t pos="A">båajoes</t>
          </tg>
       </mg>
@@ -3479,6 +3482,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma">
+          <re>om spor i snø</re>
             <t pos="A">måajkoes</t>
          </tg>
       </mg>
@@ -3489,9 +3493,17 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>om melk</re>
             <t pos="A">latjke</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>om brød, sak</re>
+            <t pos="A">baahke</t>
+         </tg>
+      </mg>
+
    </e>
    <e>
       <lg>
@@ -3558,12 +3570,14 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          <l pos="A">viiddis</l>
       </lg>
       <mg>
-         <tg xml:lang= om terrengområde, tema abstrakt>
+         <tg xml:lang="sma">
+           <re>om terreng, abstrakt</re>
             <t pos="A">vijries</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang= om klær>
+         <tg xml:lang="sma">
+          <re>om klær</re>
             <t pos="A">geljies</t>
          </tg>
       </mg>
@@ -3645,11 +3659,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="A">naarpehke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">göögkeles</t>
          </tg>
       </mg>
    </e>
@@ -3749,11 +3758,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>skiller seg ut av mange av samme sort</re>
             <t pos="A">aajnehke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>absolutt den eneste</re>
             <t pos="A">vaajhkoes</t>
          </tg>
       </mg>
