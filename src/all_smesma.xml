@@ -1013,9 +1013,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
       <mg>
-         <tg xml:lang= bare samisksprklig om mnsk>
-              <re:lang= bare samisksprklig om mnsk/re>
+         <tg xml:lang="sma">
+              <re>olbmuid birra</re>
             <t pos="N">saemiestæjja</t>
+            <xg>
+               <x>Juohke sámegielagis galgá leat vuoigatvuohta geavahit sámegiela.</x>
+               <xt>Fïerhte saemiestæjja edtja reaktam utnedh saemien nåhtadidh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3573,12 +3577,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          <tg xml:lang="sma">
            <re>om terreng, abstrakt</re>
             <t pos="A">vijries</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-          <re>om klær</re>
-            <t pos="A">geljies</t>
          </tg>
       </mg>
    </e>
@@ -12055,7 +12053,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma">
-         <re>neavvu</re>
+         <re>gaskaoapmi</re>
             <t pos="N">tsåahka</t>
          </tg>
       </mg>
