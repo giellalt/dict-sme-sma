@@ -3896,11 +3896,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="A">eadtjohke</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">rudtjege</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -3949,11 +3944,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="A">tjïelke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">klaeries</t>
          </tg>
       </mg>
    </e>
@@ -6857,11 +6847,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>litt for stor= ååpsen stoerre</re>
             <t pos="Adv">ååpsen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+      <re>litt for liten= fagkan onne, vaenie</re>
             <t pos="Adv">fagkan</t>
          </tg>
       </mg>
