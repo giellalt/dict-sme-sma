@@ -3469,7 +3469,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-          <re>om fisk, kjøtt, avføring</re>
             <t pos="A">njabre</t>
          </tg>
       </mg>
@@ -3501,13 +3500,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="A">latjke</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-         <re>om brød, sak</re>
-            <t pos="A">baahke</t>
-         </tg>
-      </mg>
-
    </e>
    <e>
       <lg>
@@ -4294,11 +4286,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="A">aerpiesïejhme</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang= "arvelig">
-            <t pos="A">eerpeles</t>
          </tg>
       </mg>
    </e>
@@ -5736,12 +5723,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">ånnetji mænngan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">daamtaj</t>
+            <t pos="Adv">iktemearan</t>
          </tg>
       </mg>
    </e>
@@ -6575,11 +6557,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Adv">dillie</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">dellie</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -6757,11 +6734,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+          <re>innesiv</re>
             <t pos="Adv">gusnie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>elativ</re>
             <t pos="Adv">gustie</t>
          </tg>
       </mg>
@@ -6847,14 +6826,23 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-         <re>litt for stor= ååpsen stoerre</re>
+         <re>litt for stor</re>
             <t pos="Adv">ååpsen</t>
+                    <xg>
+               <x>sme</x>
+               <xt>ååpsen stoerre</xt>
+            </xg>
+            
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-      <re>litt for liten= fagkan onne, vaenie</re>
+      <re>litt for liten</re>
             <t pos="Adv">fagkan</t>
+                    <xg>
+               <x>sme</x>
+               <xt>fagkan onne</xt>
+            </xg>          
          </tg>
       </mg>
    </e>
@@ -7775,11 +7763,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">vijriehkåbpoe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">vijriebasse</t>
          </tg>
       </mg>
@@ -8073,12 +8056,22 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>ikke par eller om noe som hører sammen som enhet</re>
             <t pos="CC">jïh</t>
+                    <xg>
+               <x>sme</x>
+               <xt>Voeje jïh laejpie</xt>
+            </xg>        
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>om par, noe som hører sammen, utgjør en enhet</re>
             <t pos="CC">gonnoeh</t>
+                    <xg>
+               <x>sme</x>
+               <xt>Tjidtjie gonnoeh aehtjieh</xt>
+            </xg>          
          </tg>
       </mg>
    </e>
@@ -8702,11 +8695,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">daerpiesvoete</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">daerpies</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -8984,12 +8972,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bïhkedimmie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">boejhkehtasse</t>
+            <t pos="N">bïhkedasse</t>
          </tg>
       </mg>
    </e>
@@ -8999,7 +8982,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">konsuleente</t>
+            <t pos="N">bïhkedæjja</t>
          </tg>
       </mg>
    </e>
@@ -9029,7 +9012,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ravve</t>
+            <t pos="N">råvve</t>
          </tg>
       </mg>
    </e>
@@ -9349,11 +9332,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">bealgi</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">bealketje</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">bielkie</t>
@@ -9762,11 +9740,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sma">
             <t pos="N">gårroedahke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">niestie</t>
          </tg>
       </mg>
    </e>
