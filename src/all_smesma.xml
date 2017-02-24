@@ -819,7 +819,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">plearoeh</t>
+            <t pos="A">seammaplearoeh</t>
          </tg>
       </mg>
    </e>
@@ -939,7 +939,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">voernges</t>
+            <t pos="A">jarnges</t>
          </tg>
       </mg>
    </e>
@@ -1018,7 +1018,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">saemiestæjja</t>
             <xg>
                <x>Juohke sámegielagis galgá leat vuoigatvuohta geavahit sámegiela.</x>
-               <xt>Fïerhte saemiestæjja edtja reaktam utnedh saemien nåhtadidh.</xt>
+               <xt>Fïereguhte saemiestæjja edtja reaktam utnedh saemien nåhtadidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1169,7 +1169,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">jolle</t>
+            <t pos="A">jïlle</t>
          </tg>
       </mg>
    </e>
@@ -9902,12 +9902,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">bihttá</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">biehkie</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma">
             <t pos="N">leaksoe</t>
          </tg>
