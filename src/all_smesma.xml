@@ -12966,7 +12966,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="ovdaprošeakta c6d9ca44-6fdd-482c-98c7-42e03310016c">
-            <t pos="N">åvteprosjeekte</t>
+            <t pos="N">åvteprosjekte</t>
          </tg>
       </mg>
    </e>
@@ -18297,7 +18297,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="konsuleanta 2bcafbad-7ef2-4be9-869b-f37c772d1e87">
-            <t pos="N">konsuleente</t>
+            <t pos="N">konsulente</t>
          </tg>
       </mg>
    </e>
@@ -22634,7 +22634,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="prošeakta 804bf4ef-b83f-4e7f-9098-84d467bed0bd">
-            <t pos="N">prosjeekte</t>
+            <t pos="N">prosjekte</t>
          </tg>
       </mg>
    </e>
@@ -24140,7 +24140,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="servodat 180c37e4-8f71-4224-ac65-a1fa4ccf5c23">
-            <t pos="N">siebriedahke</t>
+            <t pos="N">seabradahke</t>
          </tg>
       </mg>
    </e>
@@ -25075,7 +25075,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="studeanta 3d643670-e497-4614-a5ba-1ed5c8e54815">
-            <t pos="N">studeente</t>
+            <t pos="N">studente</t>
          </tg>
       </mg>
    </e>
@@ -30370,7 +30370,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="diplomastudeanta 0e999b2b-c25a-4dba-b430-cff82d7e2905">
-            <t pos="N">diplomstudeente</t>
+            <t pos="N">diplomstudente</t>
          </tg>
       </mg>
    </e>
@@ -30380,7 +30380,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="ekonomiijastudeanta ee179ec2-2ea1-4e36-99f5-008e9b9dd6e2">
-            <t pos="N">ekonomistudeente</t>
+            <t pos="N">ekonomistudente</t>
          </tg>
       </mg>
    </e>
@@ -30390,7 +30390,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="filosofiijastudeanta 395c49a6-255c-4e11-8622-2bb09f40ff75">
-            <t pos="N">filosofistudeente</t>
+            <t pos="N">filosofistudente</t>
          </tg>
       </mg>
    </e>
@@ -30400,7 +30400,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fysihkkastudeanta 40f08b0a-91d6-403c-8448-ab4aa6267157">
-            <t pos="N">fysikkstudeente</t>
+            <t pos="N">fysikkstudente</t>
          </tg>
       </mg>
    </e>
@@ -30410,7 +30410,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="inšenevrastudeanta c023ef85-0138-44c6-be50-7bca75a6235c">
-            <t pos="N">ingeniörstudeente</t>
+            <t pos="N">ingeniörstudente</t>
          </tg>
       </mg>
    </e>
@@ -30420,7 +30420,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="keramihkkastudeanta d09320da-59de-4115-89ad-598505d3bd7d">
-            <t pos="N">keramikkstudeente</t>
+            <t pos="N">keramikkstudente</t>
          </tg>
       </mg>
    </e>
@@ -30430,7 +30430,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kemiijastudeanta 3994a9f7-f99d-4526-9baf-a76f4be205e9">
-            <t pos="N">kjemistudeente</t>
+            <t pos="N">kjemistudente</t>
          </tg>
       </mg>
    </e>
@@ -30440,7 +30440,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="doavtterstudeanta c300cc72-0a88-4556-9a40-7b178c2c4d42">
-            <t pos="N">medisinstudeente</t>
+            <t pos="N">medisinstudente</t>
          </tg>
       </mg>
    </e>
@@ -30450,7 +30450,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="musihkkastudeanta bfac6dc7-f7d8-494f-ac6b-37e39ccc7d60">
-            <t pos="N">musikkstudeente</t>
+            <t pos="N">musikkstudente</t>
          </tg>
       </mg>
    </e>
@@ -30460,7 +30460,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="psykologiijastudeanta b9ed1a20-88ee-4894-befa-59517ec9d874">
-            <t pos="N">psykologistudeente</t>
+            <t pos="N">psykologistudente</t>
          </tg>
       </mg>
    </e>
@@ -30470,7 +30470,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="siviilainšenevrastudeanta 663cad95-4a29-4a93-9224-b7f661941718">
-            <t pos="N">sivilingeniörstudeente</t>
+            <t pos="N">sivilingeniörstudente</t>
          </tg>
       </mg>
    </e>
@@ -30480,7 +30480,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="sosiologiijastudeanta 013352b2-a73f-4efd-9c3e-9d4066565908">
-            <t pos="N">sosiologistudeente</t>
+            <t pos="N">sosiologistudente</t>
          </tg>
       </mg>
    </e>
@@ -30490,7 +30490,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="studeantafabrihkka 3bdc1010-c86b-4ae6-a180-bd74823e66c1">
-            <t pos="N">studeentefabrihke</t>
+            <t pos="N">studentefabrihke</t>
          </tg>
       </mg>
    </e>
@@ -30500,7 +30500,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="studeantačálus 212f1867-e212-479a-a0c7-fad1e72ea9a6">
-            <t pos="N">studeentelaavenjasse</t>
+            <t pos="N">studentelaavenjasse</t>
          </tg>
       </mg>
    </e>
@@ -30510,7 +30510,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="studeantapolitihkka 7728163f-aaa9-4b88-b855-4186fae6f29c">
-            <t pos="N">studeentepolitihke</t>
+            <t pos="N">studentepolitihke</t>
          </tg>
       </mg>
    </e>
@@ -30520,7 +30520,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="studeantaáirras c1868abd-84a8-47f5-840e-43adc44fa0b5">
-            <t pos="N">studeenterepresentaante</t>
+            <t pos="N">studenterepresentaante</t>
          </tg>
       </mg>
    </e>
@@ -30530,7 +30530,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="studeantasearvi 2448f1f8-743e-4e8c-b6ad-104606f03e35">
-            <t pos="N">studeentesiebrie</t>
+            <t pos="N">studentesiebrie</t>
          </tg>
       </mg>
    </e>
@@ -30560,7 +30560,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="oahppokonsuleanta 95228505-de24-41b5-bf87-7504baa0d2cb">
-            <t pos="N">studiekonsuleente</t>
+            <t pos="N">studiekonsulente</t>
          </tg>
       </mg>
    </e>
@@ -30570,7 +30570,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="oahppobagadalli 1ed67bf1-e624-4939-ae3b-70cf2ce4afcd">
-            <t pos="N">studiekonsuleente</t>
+            <t pos="N">studiekonsulente</t>
          </tg>
       </mg>
    </e>
@@ -30600,7 +30600,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="teologiijastudeanta 16c0dd63-8fec-429c-a1bc-1421ea5eb9c5">
-            <t pos="N">teologistudeente</t>
+            <t pos="N">teologistudente</t>
          </tg>
       </mg>
    </e>
@@ -30610,7 +30610,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="šibitdoavtterstudeanta 73b6c0d9-225e-479a-a54b-70a07da35e1a">
-            <t pos="N">veterinærstudeente</t>
+            <t pos="N">veterinærstudente</t>
          </tg>
       </mg>
    </e>
@@ -30630,7 +30630,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="veterinearastudeanta 09022661-9619-4b5b-a2d7-ef43d8dc7272">
-            <t pos="N">veterinærstudeente</t>
+            <t pos="N">veterinærstudente</t>
          </tg>
       </mg>
    </e>
@@ -30890,7 +30890,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="nammakonsuleanta b73fb0d7-47b6-44dd-a4b4-31283936650b">
-            <t pos="N">nommekonsuleente</t>
+            <t pos="N">nommekonsulente</t>
          </tg>
       </mg>
    </e>
@@ -34026,7 +34026,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="pilohtaprojeakta 91cdb644-322b-4e87-a389-b288e45544df">
-            <t pos="N">pilovteprosjeekte</t>
+            <t pos="N">pilovteprosjekte</t>
          </tg>
       </mg>
    </e>
