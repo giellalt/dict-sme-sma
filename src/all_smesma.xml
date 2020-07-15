@@ -37150,13 +37150,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e>
+   <e note=checked">
       <lg>
-         <l pos="Num">mill</l>
+         <l pos="Num">milj.</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="mill bd2f2320-2460-4d56-8232-b9af29e6825f">
-            <t pos="Num">milj</t>
+            <t pos="Num">mill.</t>
          </tg>
       </mg>
    </e>
