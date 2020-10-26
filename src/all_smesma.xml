@@ -4547,7 +4547,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e xpos="ok">
+   <e note="checked" xpos="ok">
       <lg>
          <l pos="A">teknihkalaš</l>
       </lg>
@@ -25979,7 +25979,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="N">teknihkka</l>
       </lg>
