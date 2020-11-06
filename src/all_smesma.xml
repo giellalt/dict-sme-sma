@@ -46283,7 +46283,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked" scr="lmm" >
       <lg>
          <l pos="V" spec="IV">njoammut</l>
       </lg>
@@ -46294,6 +46294,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="njoammut 4066337b-dded-4368-8b2b-a815a700013c">
+            <re>skïemtjeles bïjre</re>
             <t pos="V" spec="TV">laanestidh</t>
          </tg>
       </mg>
