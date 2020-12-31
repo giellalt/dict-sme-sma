@@ -7779,16 +7779,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="Adv">soaittáhagas</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="soaittáhagas c10eb857-62c1-4d83-9361-252a25b5f089">
-            <t pos="Adv">saaht guktemslaakan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">jahkásaččat</l>
       </lg>
       <mg>
@@ -39358,11 +39348,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="Prop">Ruoktosuodjalus</l>
+         <l pos="Prop">Ruovttusuodjalus</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Ruoktosuodjalus 58bfd2e6-78a7-4935-882d-79201e9cddcc">
-            <t pos="Prop">Ruoktovaarjelimmie</t>
+            <t pos="Prop">Hïejmevaarjelimmie</t>
          </tg>
       </mg>
    </e>
