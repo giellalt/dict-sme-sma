@@ -1,3 +1,4 @@
+
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
@@ -4503,7 +4504,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="eahpeformálalaš 925f9a66-f3b7-4d9e-ba2f-e181fc5694c6">
-            <t pos="A">ovbyjjes</t>
+            <t pos="A">ov-formelle</t>
          </tg>
       </mg>
    </e>
