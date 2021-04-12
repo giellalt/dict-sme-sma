@@ -9144,8 +9144,7 @@ For the full license text, see the link above.</lic><ref
       <mg>
          <tg
         xml:lang="sma"
-        tw_id="viidáseappot 823e9a20-8c3b-4860-be13-4ba679b7abb4"
-      >
+        tw_id="viidáseappot 823e9a20-8c3b-4860-be13-4ba679b7abb4">
             <t pos="Adv">vijriebasse</t>
          </tg>
       </mg>
@@ -9156,9 +9155,20 @@ For the full license text, see the link above.</lic><ref
       </lg>
       <mg>
          <tg
-        xml:lang="sme"
-        tw_id="vijriebasse 864a4d80-bd4a-4f14-a5a6-1610544268e2"
-      >
+        xml:lang="sma"
+        tw_id="vijriebasse 864a4d80-bd4a-4f14-a5a6-1610544268e2">
+            <t pos="Adv">tjyöresth-tjelmiejgujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e note="checked">
+	  <lg>
+	  <l pos="Adv">čieročalbmái</l>
+      </lg>
+      <mg>
+         <tg
+        xml:lang="sma"
+        tw_id="vijriebasse 864a4d80-bd4a-4f14-a5a6-1610544268e2">
             <t pos="Adv">tjyöresth-tjelmiejgujmie</t>
          </tg>
       </mg>
@@ -9170,8 +9180,7 @@ For the full license text, see the link above.</lic><ref
       <mg>
          <tg
         xml:lang="sma"
-        tw_id="jahkásaččat ea724d60-d586-491c-9872-3fd5f0c87a47"
-      >
+        tw_id="jahkásaččat ea724d60-d586-491c-9872-3fd5f0c87a47">
             <t pos="Adv">fïerhten jaepien</t>
          </tg>
       </mg>
@@ -9183,8 +9192,7 @@ For the full license text, see the link above.</lic><ref
       <mg>
          <tg
         xml:lang="sma"
-        tw_id="dohkálaččat 936c7e5a-15fc-40c5-90d0-33f1fec2c6d5"
-      >
+        tw_id="dohkálaččat 936c7e5a-15fc-40c5-90d0-33f1fec2c6d5">
             <t pos="Adv">sjiehteleslaakan</t>
          </tg>
       </mg>
@@ -9209,8 +9217,7 @@ For the full license text, see the link above.</lic><ref
       <mg>
          <tg
         xml:lang="sma"
-        tw_id="praktihkalaččat e4749625-46f8-4e01-8bde-68fa0c39e376"
-      >
+        tw_id="praktihkalaččat e4749625-46f8-4e01-8bde-68fa0c39e376">
             <t pos="Adv">praktihkelaakan</t>
          </tg>
       </mg>
@@ -9222,8 +9229,7 @@ For the full license text, see the link above.</lic><ref
       <mg>
          <tg
         xml:lang="sma"
-        tw_id="ollásit 0bfae221-9c25-4e81-96e2-fe8b55685126"
-      >
+        tw_id="ollásit 0bfae221-9c25-4e81-96e2-fe8b55685126">
             <t pos="Adv">ellieslaakan</t>
          </tg>
       </mg>
