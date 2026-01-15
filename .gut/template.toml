@@ -8,8 +8,8 @@
 # - ignored: never used in merging, only when populating new repos
 
 name = "Dictionary Template"
-patterns = ["sme", "se", "North Sámi", "sma", "sma", "South Sámi", "CC-BY-4.0"]
-rev_id = 3
+patterns = ["sme", "se", "North Saami", "sma", "sma", "South Saami", ""]
+rev_id = 4
 required = [".gitignore",
             ".github/workflows/docsygen.yml",
             "docs/_config.yml",
